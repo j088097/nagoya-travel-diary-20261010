@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f5f2eb">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="名古屋日記">
+  <meta name="description" content="九天名古屋、飛驒與上高地旅行手帳。每天的散步、吃飯與路線，都留一點彈性。">
+  <title>名古屋日記｜雞翅馬拉松</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./app.js"></script>
+  <script defer src="./ui-details.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="wordmark" href="./" aria-label="回到行程">旅の手帖 <span>NAGOYA</span></a>
+    <span class="edition">AUTUMN 2026</span>
+  </header>
+  <main id="app" aria-live="polite"><p class="loading">正在打開你的旅行手帳⋯</p></main>
+  <nav class="bottom-nav" aria-label="主要頁面">
+    <button data-tab="days" class="active"><span class="nav-icon" aria-hidden="true">▤</span>每日行程</button>
+    <button data-tab="info"><span class="nav-icon" aria-hidden="true">⌁</span>旅行資料</button>
+    <button data-tab="phrases"><span class="nav-icon" aria-hidden="true">あ</span>旅遊日語</button>
+  </nav>
+  <dialog id="editor" aria-labelledby="editorTitle">
+    <form id="editForm">
+      <div class="dialog-heading"><div><span class="eyebrow">MAKE ROOM FOR TODAY</span><h2 id="editorTitle">調整這一站</h2></div><button type="button" class="close" data-action="close" aria-label="關閉">×</button></div>
+      <p id="editTitle" class="edit-title"></p>
+      <div class="field-grid"><label>日期<select name="date" required></select></label><label>日本時間<input type="time" name="time" required></label></div>
+      <div class="field-grid"><label>停留／移動分鐘<input type="number" name="duration" min="0" max="1440" required></label><label>狀態<select name="status"><option value="pending">還沒到</option><option value="done">已完成</option><option value="skipped">今天跳過</option></select></label></div>
+      <label>給自己的備註<textarea name="note" rows="3" maxlength="3000"></textarea></label>
+      <p class="fine">只存於這台裝置，不會更動 Google 試算表。固定班次改了時間，也要自行確認是否有對應班次。</p>
+      <button class="solid full" type="submit">儲存調整</button>
+    </form>
+  </dialog>
+  <dialog id="routeDialog" aria-labelledby="routeTitle"><div class="dialog-heading"><div><span class="eyebrow">KAMIKOCHI / 10.14</span><h2 id="routeTitle">上高地步行路線</h2></div><button type="button" class="close" data-action="close-route" aria-label="關閉步行路線">×</button></div><div id="routeContent"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <input id="importFile" type="file" accept="application/json,.json" hidden>
+</body>
+</html>

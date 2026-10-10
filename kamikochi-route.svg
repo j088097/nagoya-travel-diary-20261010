@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1344" width="640" height="1344" role="img" aria-labelledby="kamikochi-route-title kamikochi-route-desc">
+<title id="kamikochi-route-title">上高地步行路線與分段時間</title>
+<desc id="kamikochi-route-desc">沿大正池、田代池、田代橋、河童橋與岳澤濕原走到明神池入口；池區到一之池每程另估3到5分鐘。退出池區後，到明神橋並過橋估5到10分鐘，從橋的左岸端到巴士總站估55到60分鐘。純步行約3小時10到3小時30分，參觀與午餐另計。這是順序示意圖。</desc>
+<defs><marker id="kamikochi-arrow" viewBox="0 0 8 8" refX="8" refY="4" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#5c6357"/></marker></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang TC",sans-serif;fill:#252b27}.title{font-family:"Iowan Old Style","Songti TC",serif}.muted{fill:#5c6357}</style>
+<rect width="640" height="1344" fill="#f5f2eb"/>
+<text x="40" y="52" class="muted" font-size="16" letter-spacing="4">KAMIKOCHI / 10.14</text>
+<text x="40" y="96" class="title" font-size="36">沿梓川，慢慢走</text>
+<text x="40" y="128" class="muted" font-size="20">步行順序示意・現場請依步道指標</text>
+<path d="M320 232 V288" fill="none" stroke="#5c6357" stroke-width="1.2" marker-end="url(#kamikochi-arrow)"/>
+<rect x="348" y="236" width="252" height="32" fill="#f5f2eb"/>
+<text x="356" y="256" font-size="20" class="muted">約20–25分</text>
+<path d="M320 376 V432" fill="none" stroke="#5c6357" stroke-width="1.2" marker-end="url(#kamikochi-arrow)"/>
+<rect x="348" y="380" width="252" height="32" fill="#f5f2eb"/>
+<text x="356" y="400" font-size="20" class="muted">18分・1.2 km</text>
+<path d="M320 520 V576" fill="none" stroke="#5c6357" stroke-width="1.2" marker-end="url(#kamikochi-arrow)"/>
+<rect x="348" y="524" width="252" height="32" fill="#f5f2eb"/>
+<text x="356" y="544" font-size="20" class="muted">25分・1.5 km</text>
+<path d="M320 664 V720" fill="none" stroke="#5c6357" stroke-width="1.2" marker-end="url(#kamikochi-arrow)"/>
+<rect x="348" y="668" width="252" height="32" fill="#f5f2eb"/>
+<text x="356" y="688" font-size="20" class="muted">15分</text>
+<path d="M320 808 V864" fill="none" stroke="#5c6357" stroke-width="1.2" marker-end="url(#kamikochi-arrow)"/>
+<rect x="348" y="812" width="252" height="32" fill="#f5f2eb"/>
+<text x="356" y="832" font-size="20" class="muted">45分</text>
+<path d="M320 952 V1008" fill="none" stroke="#5c6357" stroke-width="1.2" marker-end="url(#kamikochi-arrow)"/>
+<rect x="348" y="956" width="252" height="48" fill="#f5f2eb"/>
+<text x="356" y="976" font-size="20" class="muted">到橋5–10分</text>
+<text x="356" y="1000" font-size="20" class="muted">左岸回程55–60分</text>
+<rect x="96" y="144" width="448" height="88" rx="8" fill="#fffdf8" stroke="#dedfd4" stroke-width="1"/>
+<text x="112" y="180" font-size="20" class="muted">01</text>
+<text x="152" y="180" font-size="28" font-weight="600">大正池下車</text>
+<text x="112" y="212" font-size="20" class="muted">從巴士站開始步行</text>
+<rect x="96" y="288" width="448" height="88" rx="8" fill="#fffdf8" stroke="#dedfd4" stroke-width="1"/>
+<text x="112" y="324" font-size="20" class="muted">02</text>
+<text x="152" y="324" font-size="28" font-weight="600">田代池</text>
+<text x="112" y="356" font-size="20" class="muted">水面與濕原，慢慢看</text>
+<rect x="96" y="432" width="448" height="88" rx="8" fill="#fffdf8" stroke="#dedfd4" stroke-width="1"/>
+<text x="112" y="468" font-size="20" class="muted">03</text>
+<text x="152" y="468" font-size="28" font-weight="600">田代橋</text>
+<text x="112" y="500" font-size="20" class="muted">沿梓川往河童橋</text>
+<rect x="96" y="576" width="448" height="88" rx="8" fill="#e7ecdf" stroke="#52634c" stroke-width="1.2"/>
+<text x="112" y="612" font-size="20" class="muted">04</text>
+<text x="152" y="612" font-size="28" font-weight="600">河童橋</text>
+<text x="112" y="644" font-size="20" class="muted">在這裡決定是否走明神</text>
+<rect x="96" y="720" width="448" height="88" rx="8" fill="#fffdf8" stroke="#dedfd4" stroke-width="1"/>
+<text x="112" y="756" font-size="20" class="muted">05</text>
+<text x="152" y="756" font-size="28" font-weight="600">岳澤濕原</text>
+<text x="112" y="788" font-size="20" class="muted">六百山；沿途留意穗高山景</text>
+<rect x="96" y="864" width="448" height="88" rx="8" fill="#fffdf8" stroke="#dedfd4" stroke-width="1"/>
+<text x="112" y="900" font-size="20" class="muted">06</text>
+<text x="152" y="900" font-size="28" font-weight="600">明神池・奧宮入口</text>
+<text x="112" y="932" font-size="20" class="muted">一之池另抓3–5分／程，參觀另計</text>
+<rect x="96" y="1008" width="448" height="88" rx="8" fill="#fffdf8" stroke="#dedfd4" stroke-width="1"/>
+<text x="112" y="1044" font-size="20" class="muted">07</text>
+<text x="152" y="1044" font-size="28" font-weight="600">上高地巴士總站</text>
+<text x="112" y="1076" font-size="20" class="muted">明神橋過橋後走左岸，經明神・小梨平</text>
+<path d="M40 1136 H600" stroke="#dedfd4"/>
+<rect x="40" y="1160" width="16" height="16" rx="4" fill="#e7ecdf" stroke="#52634c"/>
+<text x="72" y="1176" font-size="20">河童橋：可選輕鬆版，吃飯後直接回總站。</text>
+<text x="40" y="1220" font-size="24" font-weight="600">純步行約3小時10～3小時30分</text>
+<text x="40" y="1256" font-size="20" class="muted">停留、午餐、參觀與排隊另計。</text>
+<text x="40" y="1292" font-size="16" class="muted">橋頭回程與池區短程為估算；不按比例繪製。</text>
+</svg>

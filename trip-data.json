@@ -1,0 +1,4818 @@
+{
+  "version": "20261010-v3",
+  "title": "名古屋雞翅馬拉松",
+  "subtitle": "山裡慢走，城裡好好吃。",
+  "sourceSheet": "https://docs.google.com/spreadsheets/d/1aeAxL_V9H33ckLDTjyAi8RKBYqkpv19XrSec8ax-ZLg/edit",
+  "updated": "2026-10-10",
+  "timezone": "Asia/Tokyo",
+  "places": {
+    "tpe": {
+      "id": "tpe",
+      "name": "桃園機場 T1",
+      "ja": "臺灣桃園國際機場第一航廈",
+      "address": "桃園市大園區航站南路9號",
+      "phone": "",
+      "source": "https://www.taoyuan-airport.com/",
+      "hours": "",
+      "guide": "",
+      "dishes": [],
+      "buy": []
+    },
+    "ngo": {
+      "id": "ngo",
+      "name": "中部國際機場 T1",
+      "ja": "中部国際空港 第1ターミナル",
+      "address": "愛知県常滑市セントレア1丁目1",
+      "phone": "",
+      "source": "https://www.centrair.jp/",
+      "hours": "",
+      "guide": "",
+      "dishes": [],
+      "buy": []
+    },
+    "nagoya": {
+      "id": "nagoya",
+      "name": "名古屋車站",
+      "ja": "名古屋駅",
+      "address": "愛知県名古屋市中村区名駅1丁目",
+      "phone": "",
+      "source": "https://www.meitetsu.co.jp/",
+      "hours": "",
+      "guide": "",
+      "dishes": [],
+      "buy": []
+    },
+    "sakae": {
+      "id": "sakae",
+      "name": "榮站",
+      "ja": "栄駅",
+      "address": "愛知県名古屋市中区栄",
+      "phone": "",
+      "source": "https://www.kotsu.city.nagoya.jp/",
+      "hours": "",
+      "guide": "",
+      "dishes": [],
+      "buy": []
+    },
+    "comfort": {
+      "id": "comfort",
+      "name": "Comfort Inn Nagoya Sakae",
+      "ja": "コンフォートイン名古屋栄駅前",
+      "address": "愛知県名古屋市中区錦3丁目16-30",
+      "phone": "052-951-1411",
+      "source": "https://www.choice-hotels.jp/inn/nagoyasakae/",
+      "hours": "",
+      "guide": "榮站2號出口步行約1分鐘。入住15:00、退房10:00；實際訂房條件以訂單為準。",
+      "dishes": [],
+      "buy": []
+    },
+    "pegasus": {
+      "id": "pegasus",
+      "name": "PEGASUS STAY 201／301",
+      "ja": "PEGASUS STAY 高山",
+      "address": "",
+      "phone": "",
+      "source": "https://www.airbnb.com/",
+      "hours": "",
+      "guide": "高山住宿。停車資訊已補：先使用第一停車場13或15號位，兩個皆占用才改第二處；房號、完整地址與入住方式仍依Airbnb訂單確認。 10/12預估18:00–18:30抵達；晚到入住、鑰匙或密碼向房東確認。",
+      "dishes": [],
+      "buy": [],
+      "navReady": false,
+      "parking": {
+        "title": "10/12｜PEGASUS STAY 停車",
+        "note": "每間房提供一個免費車位，停車場在客房對面的街道。取車後拍攝整輛車，清楚顯示廠牌與車牌，再由你傳給房東。",
+        "primary": {
+          "name": "第一停車場｜13、15號位",
+          "url": "https://maps.app.goo.gl/w1gESVTzuQVYjEMV8",
+          "instructions": "https://drive.google.com/file/d/1ld5L03wU2ulabUE6UCs8O3Ropfk2X3EI/view?usp=sharing",
+          "note": "認入口的「月極駐車場」招牌；僅可停No.13或No.15，不可停隔壁公寓的住戶車位。可停車尺寸：長3.90m、寬2.40m；取車時核對實際車型尺寸，超出先問房東。"
+        },
+        "backup": {
+          "name": "第二停車場｜僅供備用",
+          "url": "https://maps.app.goo.gl/KQdijCdmnjXstef59",
+          "instructions": "https://drive.google.com/file/d/1AGuJbyV3uSdhLqh0ynJbNJJY5z_pwrmc/view?usp=drive_link",
+          "note": "只有第一處13、15號位都被占用才可使用。從綠色「遊」招牌進入，依PDF紅圈選空位；「遊」招牌右側及圖中黑叉車位禁止停車。停車前一定先看PDF位置圖。"
+        }
+      }
+    },
+    "syaku": {
+      "id": "syaku",
+      "name": "山荘錫杖",
+      "ja": "山荘 錫杖",
+      "address": "岐阜県高山市奥飛騨温泉郷中尾231",
+      "phone": "0578-89-2701",
+      "source": "https://okuhida.or.jp/p/stay/山荘-錫杖/",
+      "hours": "",
+      "guide": "中尾溫泉的山景旅宿。原表為一泊朝食、現場現金付款；晚餐需另外安排。",
+      "dishes": [],
+      "buy": [],
+      "bookingNote": "10/13一晚；原表一泊朝食。入住與加餐以旅館確認為準。"
+    },
+    "hozanso": {
+      "id": "hozanso",
+      "name": "寶山荘別館",
+      "ja": "宝山荘別館",
+      "address": "岐阜県高山市奥飛騨温泉郷中尾442-14",
+      "phone": "0578-89-2457",
+      "source": "https://www.hidatakayama.or.jp/stay/detail_4933.html",
+      "hours": "",
+      "guide": "位於蒲田川旁；「あんき」在飛驒方言中是輕鬆、自在的意思。別館與栃尾的本館地址不同，導航要選別館。",
+      "dishes": [],
+      "buy": [],
+      "bookingNote": "10/14一晚；原表一泊朝食，晚餐另安排。"
+    },
+    "loisir": {
+      "id": "loisir",
+      "name": "ACCESS by LOISIR HOTEL Nagoya",
+      "ja": "アクセス・バイ・ロワジールホテル 名古屋",
+      "address": "愛知県名古屋市東区東桜1丁目9-22",
+      "phone": "052-950-3511",
+      "source": "https://www.access-by-loisir.com/nagoya/",
+      "hours": "",
+      "guide": "榮站步行約5分鐘。入住15:00、退房10:00；可向櫃台詢問寄放行李。",
+      "dishes": [],
+      "buy": [],
+      "bookingNote": "10/15、16 雙床房（Trip.com）；10/17 早上退房，晚上入住雙人房；10/18 退房。",
+      "links": [
+        {
+          "label": "飯店附近過夜停車資訊（費用與優惠向櫃台確認）",
+          "url": "https://www.access-by-loisir.com/nagoya/assets/files/map_parking.pdf"
+        }
+      ]
+    },
+    "hm": {
+      "id": "hm",
+      "name": "HM 租車名古屋站店",
+      "ja": "HM RENT A CAR 名古屋駅新幹線口店",
+      "address": "愛知県名古屋市中村区竹橋町24-6",
+      "phone": "052-526-2720",
+      "source": "使用者租車訂單截圖",
+      "hours": "08:00–19:00",
+      "guide": "使用者訂單截圖：10/12 10:00取車，需步行約10分鐘到店，不提供車站接駁；原店還車。 延租至10/16尚未確認；先核對費用、保險、ETC與新還車時間。",
+      "dishes": [],
+      "buy": [],
+      "bookingNote": "10/12 10:00取車。10/15 17:30–18:00還車為規劃目標，訂單期限仍待確認；只有店家確認延租後，才改10/16 08:30–09:00還車。門市19:00關門不代表訂單可19:00還車。"
+    },
+    "atsuta": {
+      "id": "atsuta",
+      "name": "熱田神宮",
+      "ja": "熱田神宮",
+      "address": "愛知県名古屋市熱田区神宮1丁目1-1",
+      "phone": "",
+      "source": "https://www.atsutajingu.or.jp/houmotukan_kusanagi/kusanagi/",
+      "hours": "",
+      "guide": "參拜後可沿林蔭步道散步；館舍為選逛，另外核對當期展覽與開館資訊。",
+      "dishes": [],
+      "buy": [],
+      "photo": {
+        "src": "./photos/atsuta.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Atsuta_Shrine.jpg",
+        "credit": "Bariston",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": "Atsuta Shrine.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "tickets": {
+        "note": "神宮參拜免費。草薙館、寶物館為選逛，不另外增加行程站點。",
+        "entries": [
+          {
+            "label": "草薙館單館／寶物館平常展單館（擇一）",
+            "price": 500,
+            "source": "https://www.atsutajingu.or.jp/houmotukan_kusanagi/kusanagi/",
+            "optional": true
+          },
+          {
+            "label": "草薙館＋寶物館共通券",
+            "price": 800,
+            "source": "https://www.atsutajingu.or.jp/houmotukan_kusanagi/kusanagi/",
+            "optional": true,
+            "note": "特別展期間共通券價格可能不同，購票前確認當期展覽。"
+          }
+        ],
+        "checked": "2026-10-10",
+        "adults": 2,
+        "currency": "JPY"
+      },
+      "introduction": {
+        "points": [
+          "熱田神宮與三神器之一的草薙劍信仰密切相關，草薙劍被奉為御神體。",
+          "林蔭參道與社殿構成市區裡安靜的參拜空間。草薙館展示奉納刀劍，御神體本身不公開展示。"
+        ],
+        "sources": [
+          {
+            "label": "中文維基百科・熱田神宮",
+            "url": "https://zh.wikipedia.org/zh-tw/熱田神宮"
+          },
+          {
+            "label": "草薙館官方介紹",
+            "url": "https://www.atsutajingu.or.jp/houmotukan_kusanagi/kusanagi/"
+          }
+        ]
+      }
+    },
+    "osu": {
+      "id": "osu",
+      "name": "大須商店街",
+      "ja": "大須商店街",
+      "address": "愛知県名古屋市中区大須",
+      "phone": "",
+      "source": "https://osu.co.jp/",
+      "hours": "",
+      "guide": "二手店、雜貨與小吃可一起逛。店家各自營業，排下午比一早更容易逛齊。",
+      "dishes": [
+        "五平餅：先確認醬料與配料"
+      ],
+      "buy": [
+        "大須店舖的日式雜貨；依喜好挑選"
+      ],
+      "photo": {
+        "src": "./photos/osu.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Main_shopping_street_(Osu_in_Nagoya,_Japan).jpg",
+        "credit": "Gryffindor",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "alt": "Main shopping street (Osu in Nagoya, Japan).jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "大須隨大須觀音周邊的門前町發展，寺院與商業街區交織至今。",
+          "老店、古著、電器與各國小吃共處在同一片街區，沿主街走進巷弄，也能看到不同年代留下的店面。"
+        ],
+        "sources": [
+          {
+            "label": "大須商店街官方・街區由來",
+            "url": "https://osu.nagoya/ja/osu-yurai.php"
+          }
+        ]
+      }
+    },
+    "seseragi": {
+      "id": "seseragi",
+      "name": "白川鄉停車場",
+      "ja": "村営せせらぎ公園駐車場",
+      "address": "岐阜県大野郡白川村荻町",
+      "phone": "",
+      "source": "https://kankou.shirakawa-go.org/1157.htm",
+      "hours": "最晚16:30入庫、17:00前離場",
+      "guide": "自駕導航到停車場，再步行過橋入村；村內仍有人居住，不開車穿越住宅區。",
+      "dishes": [],
+      "buy": [],
+      "close": "17:00",
+      "navQuery": "村営せせらぎ公園駐車場 白川郷"
+    },
+    "shirakawa": {
+      "id": "shirakawa",
+      "name": "白川鄉合掌村",
+      "ja": "白川郷 荻町合掌造り集落",
+      "address": "岐阜県大野郡白川村荻町",
+      "phone": "",
+      "source": "https://shirakawa-go.gr.jp/",
+      "hours": "",
+      "guide": "從であい橋進村，依時間選一家開放民家與展望點；拍照留在公共路線，避免走入私人庭院。",
+      "dishes": [],
+      "buy": [
+        "合掌屋造型小物",
+        "飛驒木工雜貨"
+      ],
+      "photo": {
+        "src": "./photos/shirakawa.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:2016-11-03_Shirakawa-go.jpg",
+        "credit": "Miguel Romay",
+        "license": "CC BY 2.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+        "alt": "2016-11-03 Shirakawa-go.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "tickets": {
+        "note": "村落散策不需入村門票；參觀民家內部另購票，停車與接駁另計。",
+        "entries": [
+          {
+            "label": "和田家入館（民家選逛）",
+            "price": 400,
+            "source": "https://shirakawa-go.gr.jp/active/13/",
+            "optional": true,
+            "note": "現金購票；開放09:00–17:00，不定休。"
+          }
+        ],
+        "checked": "2026-10-10",
+        "adults": 2,
+        "currency": "JPY"
+      },
+      "introduction": {
+        "points": [
+          "荻町以合掌造民家聞名，陡峭屋頂的形狀像雙手合十，因此得名。",
+          "白川鄉與五箇山的合掌造聚落於1995年列入世界文化遺產；這裡同時也是居民日常生活的村落。"
+        ],
+        "sources": [
+          {
+            "label": "中文維基百科・白川鄉",
+            "url": "https://zh.wikipedia.org/zh-tw/白川鄉"
+          }
+        ]
+      }
+    },
+    "takayama": {
+      "id": "takayama",
+      "name": "高山老街",
+      "ja": "飛騨高山 三町筋",
+      "address": "岐阜県高山市上三之町",
+      "phone": "",
+      "source": "https://www.hidatakayama.or.jp/",
+      "hours": "",
+      "guide": "保留老街散步與採買補給；不把飛驒牛串、牛握壽司加入美食選項。",
+      "dishes": [],
+      "buy": [
+        "さるぼぼ：飛驒地方的護身娃娃",
+        "味噌與在地木工品"
+      ],
+      "photo": {
+        "src": "./photos/takayama.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:071124_Sanmachi_Takayama_Japan01s3.jpg",
+        "credit": "663highland",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": "071124 Sanmachi Takayama Japan01s3.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "三町原是高山城下町的商人街區，保存木造商家與酒造的街景。",
+          "這一帶列為重要傳統建造物群保存地區；格子窗、深長的商家空間與酒造招牌，是沿街可留意的細節。"
+        ],
+        "sources": [
+          {
+            "label": "高山市官方・三町保存地區",
+            "url": "https://www.city.takayama.lg.jp/kurashi/1000021/1000119/1000847/1001005/1001006.html"
+          }
+        ]
+      }
+    },
+    "market": {
+      "id": "market",
+      "name": "宮川朝市",
+      "ja": "宮川朝市",
+      "address": "岐阜県高山市下三之町",
+      "phone": "",
+      "source": "https://www.hidatakayama.or.jp/faq/",
+      "hours": "4～10月07:00–12:00",
+      "guide": "早到逛市場，再回住處退房；上午上山前買好飲水與點心。",
+      "dishes": [],
+      "buy": [
+        "季節蔬果",
+        "小包裝漬物：留意保存條件"
+      ],
+      "photo": {
+        "src": "./photos/market.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Hida-Takayama_Miyagawa_Morning_Market_(15668520238).jpg",
+        "credit": "bryan... from Taipei, Taiwan",
+        "license": "CC BY-SA 2.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+        "alt": "Hida-Takayama Miyagawa Morning Market (15668520238).jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "高山朝市從米、桑與花卉等交易逐漸發展，明治時期開始有農家販售蔬菜。",
+          "宮川朝市沿河道擺攤，當季蔬果、漬物、花卉與手作讓人看見飛驒的日常生活。"
+        ],
+        "sources": [
+          {
+            "label": "飛驒高山官方・朝市歷史",
+            "url": "https://www.hidatakayama.or.jp/special/detail_159.html"
+          }
+        ]
+      }
+    },
+    "rope": {
+      "id": "rope",
+      "name": "新穗高纜車",
+      "ja": "新穂高ロープウェイ",
+      "address": "岐阜県高山市奥飛騨温泉郷神坂",
+      "phone": "0578-89-2252",
+      "source": "https://shinhotaka-ropeway.jp/access/",
+      "hours": "",
+      "guide": "出發前查看官方運行、能見度與風勢資訊；購物依山頂→白樺平的下山順序。",
+      "dishes": [],
+      "buy": [],
+      "mapcode": "898 114 822*27",
+      "codeSource": "https://www.mapion.co.jp/phonebook/M06007/21203/ILSP0000662611_ipclm/",
+      "navQuery": "新穂高温泉駐車場 新穂高ロープウェイ",
+      "navNote": "MAPCODE為纜車設施定位；開車請再確認觀光停車場入口，非登山者專用停車場。",
+      "photo": {
+        "src": "./photos/rope.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Shinhotaka_Ropeway_and_Mount_Kasa.jpg",
+        "credit": "Alpsdake",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": "Shinhotaka Ropeway and Mount Kasa.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "tickets": {
+        "note": "依目前從新穗高溫泉站搭兩段纜車到西穗高口站的安排。",
+        "entries": [
+          {
+            "label": "第1＋第2纜車連絡來回票",
+            "price": 3800,
+            "source": "https://shinhotaka-ropeway.jp/price/",
+            "note": "官網所列一般成人票；若已買優惠票，以訂單金額為準。超過6kg的行李另需荷物券。"
+          }
+        ],
+        "checked": "2026-10-10",
+        "adults": 2,
+        "currency": "JPY"
+      },
+      "introduction": {
+        "points": [
+          "新穗高纜車以兩段路線通往海拔2,156公尺的西穗高口站，第2段使用雙層車廂。",
+          "上方可眺望北阿爾卑斯山群；從山麓到山頂，森林與岩稜景色會隨高度改變。"
+        ],
+        "sources": [
+          {
+            "label": "新穗高纜車官方介紹",
+            "url": "https://shinhotaka-ropeway.jp/"
+          }
+        ]
+      }
+    },
+    "bridge": {
+      "id": "bridge",
+      "name": "北阿爾卑斯大橋",
+      "ja": "北アルプス大橋",
+      "address": "岐阜県高山市奥飛騨温泉郷中尾",
+      "phone": "",
+      "source": "https://www.kankou-gifu.jp/spot/detail_4278.html",
+      "hours": "",
+      "guide": "從展望園地停車後拍照，橋上不臨停；紅葉進度與能見度依當天狀況。",
+      "dishes": [],
+      "buy": [],
+      "mapcode": "898 054 773*73",
+      "codeSource": "https://www.mapion.co.jp/phonebook/M07006/21203/L0676620/",
+      "navQuery": "北アルプス展望園地 駐車場",
+      "navNote": "MAPCODE定位在橋梁；停車拍照請導航到展望園地，抵達前核對入口。",
+      "photo": {
+        "src": "./photos/bridge.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%83%BC%E3%83%81%E6%A9%8B_-_panoramio_(3).jpg",
+        "credit": "Mamusi Taka",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "alt": "アーチ橋 - panoramio (3).jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "北阿爾卑斯大橋連接中尾高原與鍋平園地，橋長約150公尺，距谷底約70公尺。",
+          "白色橋身橫跨山谷，與錫杖岳、笠岳方向的山景同框；秋天可留意兩側山林的色彩。"
+        ],
+        "sources": [
+          {
+            "label": "岐阜縣官方・北阿爾卑斯大橋",
+            "url": "https://www.kankou-gifu.jp/spot/detail_4278.html"
+          }
+        ]
+      }
+    },
+    "akandana": {
+      "id": "akandana",
+      "name": "あかんだな停車場",
+      "ja": "あかんだな駐車場",
+      "address": "岐阜県高山市奥飛騨温泉郷平湯791-38",
+      "phone": "",
+      "source": "https://www.kamikochi.or.jp/access/akandana/",
+      "hours": "",
+      "guide": "上高地全年禁止一般車輛進入；把車留在此處，再搭接駁巴士。車票現場購買，全車自由座，08:50為目標班次，提前到場排隊。",
+      "dishes": [],
+      "buy": [],
+      "mapcode": "620 712 091*43",
+      "codeSource": "https://www.mapion.co.jp/phonebook/M08002/21203/ILSP0063437497_ipclm/",
+      "navNote": "MAPCODE為駐車場設施；依現場入口標誌進入。"
+    },
+    "taisho": {
+      "id": "taisho",
+      "name": "大正池",
+      "ja": "上高地 大正池",
+      "address": "長野県松本市安曇上高地",
+      "phone": "",
+      "source": "https://www.kamikochi.or.jp/",
+      "hours": "",
+      "guide": "從大正池沿梓川往田代池、田代橋走，能逐步展開穗高連峰景色。巴士在大正池下車，回程在總站上車，不走回停車場。",
+      "dishes": [],
+      "buy": []
+    },
+    "kappa": {
+      "id": "kappa",
+      "name": "河童橋",
+      "ja": "上高地 河童橋",
+      "address": "長野県松本市安曇上高地",
+      "phone": "",
+      "source": "https://www.kamikochi.or.jp/learn/spots/1319/",
+      "hours": "",
+      "guide": "11:30依體力與天氣選輕鬆版或明神延伸版。餐廳多集中在河童橋與巴士總站附近。",
+      "dishes": [],
+      "buy": [],
+      "photo": {
+        "src": "./photos/kappa.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:150920_Kappa-bashi_Kamikochi_Japan01n.jpg",
+        "credit": "663highland",
+        "license": "CC BY 2.5",
+        "licenseURL": "https://creativecommons.org/licenses/by/2.5",
+        "alt": "150920 Kappa-bashi Kamikochi Japan01n.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "河童橋橫跨梓川，從橋上可看穗高連峰，回望則能看見燒岳方向。",
+          "橋在1910年改為吊橋，芥川龍之介的小說《河童》也描寫過上高地與河童橋，使它成為廣為人知的地標。"
+        ],
+        "sources": [
+          {
+            "label": "上高地官方・河童橋",
+            "url": "https://www.kamikochi.or.jp/learn/spots/1319/"
+          }
+        ]
+      }
+    },
+    "myojin": {
+      "id": "myojin",
+      "name": "明神池・明神橋",
+      "ja": "上高地 明神池",
+      "address": "長野県松本市安曇上高地",
+      "phone": "",
+      "source": "https://www.kamikochi.or.jp/",
+      "hours": "",
+      "guide": "延伸版經岳澤濕原到明神池，參觀後退出池區、過明神橋，再沿左岸經明神與小梨平回總站。池內參觀、拍照另留15–30分。",
+      "dishes": [],
+      "buy": [],
+      "photo": {
+        "src": "./photos/myojin.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:150920_Myojin-ike_Kamikochi_Japan06n.jpg",
+        "credit": "663highland",
+        "license": "CC BY 2.5",
+        "licenseURL": "https://creativecommons.org/licenses/by/2.5",
+        "alt": "150920 Myojin-ike Kamikochi Japan06n.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "tickets": {
+        "note": "延伸版才會到明神池。此費用為進入池區拝觀，步道與明神橋可自由通行。",
+        "entries": [
+          {
+            "label": "明神池拝觀",
+            "price": 500,
+            "source": "https://hotakajinja.com/okumiya/",
+            "note": "開放06:00–17:00；池內參觀與拍照時間另留。"
+          }
+        ],
+        "checked": "2026-10-10",
+        "adults": 2,
+        "currency": "JPY"
+      },
+      "introduction": {
+        "points": [
+          "明神池位於穗高神社奧宮境內，由一之池、二之池等池水組成，池畔可仰望明神岳。",
+          "池水由山間湧水補給，冬天也不會全面結冰。岳澤濕原、林間步道與清澈池面，構成這段路線不同的風景。"
+        ],
+        "sources": [
+          {
+            "label": "上高地官方・明神池",
+            "url": "https://www.kamikochi.or.jp/learn/spots/1384/"
+          }
+        ]
+      }
+    },
+    "bus": {
+      "id": "bus",
+      "name": "上高地巴士總站",
+      "ja": "上高地バスターミナル",
+      "address": "長野県松本市安曇上高地",
+      "phone": "",
+      "source": "https://www.nouhibus.co.jp/route_bus/kamikochi-line/",
+      "hours": "回平湯方向每小時00／30分；倒數第二班17:00，末班17:30（2026）",
+      "guide": "原目標15:30保留。較晚備案17:00→平湯17:25→あかんだな17:30；末班17:30→平湯17:55→停車場18:00。全車自由席，依排隊順序上車，當日再查運行公告。",
+      "dishes": [],
+      "buy": []
+    },
+    "gujo": {
+      "id": "gujo",
+      "name": "郡上八幡古街",
+      "ja": "郡上八幡 城下町",
+      "address": "岐阜県郡上市八幡町",
+      "phone": "",
+      "source": "https://tabitabigujo.com/",
+      "hours": "",
+      "guide": "10/12午餐後走城下町、水路與吉田川；13:45出發，最晚14:00離開，保留白川鄉停車與入村時間。街區散步免費，這次不另增加登城行程。",
+      "dishes": [],
+      "buy": [
+        "郡上食品模型小物",
+        "郡上在地味噌"
+      ],
+      "photo": {
+        "src": "./photos/gujo.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:%E9%83%A1%E4%B8%8A%E5%85%AB%E5%B9%A1(%E5%90%89%E7%94%B0%E5%B7%9D)_-_panoramio_-_gundam2345_(4).jpg",
+        "credit": "gundam2345",
+        "license": "CC BY 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+        "alt": "郡上八幡(吉田川) - panoramio - gundam2345 (4).jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "郡上八幡在江戶時代作為城下町發展，低矮老屋與街巷仍保留昔日的尺度。",
+          "吉田川、泉水與水路是街區特色；當地也以郡上舞聞名，水、工藝與舞蹈共同構成城鎮文化。"
+        ],
+        "sources": [
+          {
+            "label": "中文維基百科・八幡町",
+            "url": "https://zh.wikipedia.org/wiki/八幡町_(岐阜縣)"
+          }
+        ]
+      }
+    },
+    "inuyama": {
+      "id": "inuyama",
+      "name": "犬山城",
+      "ja": "国宝 犬山城",
+      "address": "愛知県犬山市犬山北古券65-2",
+      "phone": "",
+      "source": "https://inuyama-castle.jp/about/contact",
+      "hours": "",
+      "guide": "木造樓梯陡，留出上下樓與候位時間；最晚16:30入場。",
+      "dishes": [],
+      "buy": [],
+      "photo": {
+        "src": "./photos/inuyama.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Inuyama_Castle_Keep_Tower_20170409.jpg",
+        "credit": "Suicasmo",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": "Inuyama Castle Keep Tower 20170409.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "tickets": {
+        "entries": [
+          {
+            "label": "犬山城入場・登閣",
+            "price": 1000,
+            "source": "https://inuyama-castle.jp/guidance/",
+            "note": "09:00–17:00，最晚16:30入場；旺季可能管制人數。"
+          }
+        ],
+        "checked": "2026-10-10",
+        "adults": 2,
+        "currency": "JPY"
+      },
+      "introduction": {
+        "points": [
+          "犬山城坐落木曾川南岸的山丘，現存天守列為日本國寶，也有「白帝城」之稱。",
+          "木造天守保存早期城堡的空間；登上上層，可看河川與城下町的位置關係。"
+        ],
+        "sources": [
+          {
+            "label": "中文維基百科・犬山城",
+            "url": "https://zh.wikipedia.org/zh-tw/犬山城"
+          }
+        ]
+      }
+    },
+    "sanko": {
+      "id": "sanko",
+      "name": "三光稻荷神社",
+      "ja": "三光稲荷神社",
+      "address": "愛知県犬山市犬山北古券41-1",
+      "phone": "",
+      "source": "https://inuyama.gr.jp/",
+      "hours": "",
+      "guide": "與犬山城、城下町串成步行路線；鳥居與繪馬區可拍照，與參拜者互相留空間。",
+      "dishes": [],
+      "buy": [],
+      "photo": {
+        "src": "./photos/sanko.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Haiden_of_Sanko_Inari_Shrine.JPG",
+        "credit": "そらみみ",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "alt": "Haiden of Sanko Inari Shrine.JPG",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "三光稻荷神社位於犬山城山麓，江戶時代以來受到犬山城主成瀨家的崇敬。",
+          "鳥居、稻荷信仰與祈願文化是這裡的看點，與城堡、城下町共同構成步行街區。"
+        ],
+        "sources": [
+          {
+            "label": "犬山觀光官方・三光稻荷神社",
+            "url": "https://inuyama.gr.jp/experience/detail/15/"
+          }
+        ]
+      }
+    },
+    "castle": {
+      "id": "castle",
+      "name": "名古屋城",
+      "ja": "名古屋城",
+      "address": "愛知県名古屋市中区本丸1-1",
+      "phone": "",
+      "source": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/",
+      "hours": "",
+      "guide": "這次看本丸御殿、庭園與城堡外觀；天守閣閉館。10/17、18名古屋祭免費開放，依官方公告入場。",
+      "dishes": [],
+      "buy": [],
+      "extraSource": "https://www.nagoya-festival.jp/openplace/",
+      "photo": {
+        "src": "./photos/castle.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:Nagoya_Castle(Larger).jpg",
+        "credit": "Base64",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "alt": "Nagoya Castle(Larger).jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "tickets": {
+        "entries": [
+          {
+            "label": "名古屋城觀覽",
+            "price": 1000,
+            "source": "https://www.nagoyajo.city.nagoya.jp/info/fee/",
+            "freeDates": [
+              "2026-10-17",
+              "2026-10-18"
+            ],
+            "freeSource": "https://www.nagoya-festival.jp/event-place/nagoyajyo/",
+            "freeNote": "名古屋祭10/17、18免費開放，本丸御殿不另收費。天守閣仍閉館。",
+            "note": "一般成人票自2026/10/1起為¥1,000；本丸御殿不另收費，天守閣閉館。"
+          }
+        ],
+        "checked": "2026-10-10",
+        "adults": 2,
+        "currency": "JPY"
+      },
+      "introduction": {
+        "points": [
+          "名古屋城為尾張德川家的居城，金鯱與大型天守外觀是辨認它的特徵。",
+          "本丸御殿最初於1615年完成，曾作藩主居所與政廳，後來接待將軍；今天可看復原御殿的裝飾與房間層次。"
+        ],
+        "sources": [
+          {
+            "label": "中文維基百科・名古屋城",
+            "url": "https://zh.wikipedia.org/zh-tw/名古屋城"
+          },
+          {
+            "label": "名古屋城官方・本丸御殿",
+            "url": "https://www.nagoyajo.city.nagoya.jp/guide/honmarugoten/"
+          }
+        ]
+      }
+    },
+    "hisaya": {
+      "id": "hisaya",
+      "name": "久屋大通公園・名古屋祭",
+      "ja": "久屋大通公園 エディオン久屋広場 エンゼル広場",
+      "address": "愛知県名古屋市中区栄",
+      "phone": "",
+      "source": "https://www.nagoya-festival.jp/",
+      "hours": "",
+      "guide": "2026名古屋祭10/17～18以久屋大通公園舞台、攤位為主；今年取消遊行與OASIS 21會場活動，當日看官網節目。Snow Peak位於公園北側RAYARD區，與祭典廣場是不同區段。",
+      "dishes": [],
+      "buy": [],
+      "photo": {
+        "src": "./photos/hisaya.jpg",
+        "source": "https://commons.wikimedia.org/wiki/File:The_night_view_of_Hisaya_Odori_Park.jpg",
+        "credit": "名古屋太郎",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+        "alt": "The night view of Hisaya Odori Park.jpg",
+        "changes": "縮圖、卡片裁切與漸層覆蓋；照片為地點參考，非旅遊當日實況。"
+      },
+      "introduction": {
+        "points": [
+          "久屋大通公園沿名古屋榮區的南北軸線延伸，中央可見名古屋電視塔。",
+          "公園綠地、公共藝術與街道相連，也是名古屋祭等城市活動的場地。"
+        ],
+        "sources": [
+          {
+            "label": "中文維基百科・久屋大通公園",
+            "url": "https://zh.wikipedia.org/zh-tw/久屋大通公園"
+          }
+        ]
+      }
+    },
+    "fumiya": {
+      "id": "fumiya",
+      "name": "Fumiya Nishiki",
+      "ja": "ふみ屋 錦店",
+      "address": "愛知県名古屋市中区錦3-17-7 カシマ錦ビル1F",
+      "phone": "052-963-0238",
+      "source": "https://store.sotomesi.jp/store/9451/",
+      "hours": "平台列11:30–翌03:00；最後點餐電話確認",
+      "guide": "第一晚已選定。雞翅、炸蝦與熟食為主；避開牛筋、內臟與生魚片。航班延誤可先打電話問最後點餐。",
+      "dishes": [
+        "手羽先",
+        "海老フライ",
+        "味噌おでん：選蛋、豆腐、白蘿蔔"
+      ],
+      "buy": [],
+      "mapsSaved": true,
+      "savedEvidence": {
+        "list": "餐廳",
+        "name": "Fumiya Nishiki",
+        "checked": "2026-10-10",
+        "method": "Google Maps 已登入帳號收藏清單，核對實際分店"
+      }
+    },
+    "furaibo": {
+      "id": "furaibo",
+      "name": "風来坊 栄店",
+      "ja": "風来坊 栄店",
+      "address": "愛知県名古屋市中区栄4-5-8",
+      "phone": "052-241-8016",
+      "source": "https://furaibo.jp/sakae/",
+      "hours": "週二～四、日17:00–23:00；五、六至24:00；週一休",
+      "guide": "手羽先唐揚是招牌；依當天胃口點雞肉、蔬菜與白飯，避開牛肉及內臟品項。",
+      "dishes": [
+        "元祖手羽先唐揚"
+      ],
+      "buy": [],
+      "mapsSaved": true,
+      "savedEvidence": {
+        "list": "餐廳",
+        "name": "Furaibo Sakae",
+        "checked": "2026-10-10",
+        "method": "Google Maps 已登入帳號收藏清單，核對實際分店"
+      }
+    },
+    "shige": {
+      "id": "shige",
+      "name": "炭火焼鳥 しげ 栄本店",
+      "ja": "炭火焼鳥 しげ 栄本店",
+      "address": "愛知県名古屋市中区栄3-2-30 秀和ビルB1F",
+      "phone": "052-241-9881",
+      "source": "https://shige-group.co.jp/shige/",
+      "hours": "17:30–23:30；最後點餐23:00；週一休",
+      "guide": "點一般雞肉與蔬菜串。雞肝、心、砂肝、ちょうちん都不選；菜單若改動先問店員。",
+      "dishes": [
+        "雞腿串",
+        "雞胸串",
+        "蔬菜串"
+      ],
+      "buy": [],
+      "mapsSaved": true,
+      "savedEvidence": {
+        "list": "餐廳",
+        "name": "Shige Sakae Honten",
+        "checked": "2026-10-10",
+        "method": "Google Maps 已登入帳號收藏清單，核對實際分店"
+      },
+      "close": "23:30"
+    },
+    "yaba": {
+      "id": "yaba",
+      "name": "矢場とん 矢場町本店",
+      "ja": "矢場とん 矢場町本店",
+      "address": "愛知県名古屋市中区大須3-6-18",
+      "phone": "",
+      "source": "https://www.yabaton.com/stores",
+      "hours": "",
+      "guide": "大須散步前後可吃味噌豬排。點豬排定食，套餐與醬料若有疑問先確認；不選牛肉新品。",
+      "dishes": [
+        "味噌豬排"
+      ],
+      "buy": []
+    },
+    "houraiken": {
+      "id": "houraiken",
+      "name": "蓬萊軒 神宮店",
+      "ja": "あつた蓬莱軒 神宮店",
+      "address": "",
+      "phone": "",
+      "source": "https://www.houraiken.com/",
+      "hours": "",
+      "guide": "靠近熱田神宮，排隊時間會影響大須行程。鰻魚飯可分原味、藥味、茶泡三種吃法；肝吸い換普通湯。",
+      "dishes": [
+        "ひつまぶし 鰻魚飯"
+      ],
+      "buy": [],
+      "navQuery": "あつた蓬莱軒 神宮店 熱田"
+    },
+    "unafuji": {
+      "id": "unafuji",
+      "name": "炭焼うな富士 名駅店",
+      "ja": "炭焼うな富士 名駅店",
+      "address": "愛知県名古屋市中村区名駅4-8-18 名古屋三井ビルディング北館B1F",
+      "phone": "052-589-4888",
+      "source": "https://sumiyaki-unafuji.com/shops/nagoya-ekimae/",
+      "hours": "11:00–21:00；最後點餐20:30；不定休",
+      "guide": "保留名駅店的鰻魚飯，避免肝入り款及肝吸い。從榮購物區前往另抓地鐵與步行約20～30分鐘；若想留在榮區吃，選同餐燒鳥備案。訂位與臨休以店家確認為準。",
+      "dishes": [
+        "鰻魚飯：普通款、不加肝"
+      ],
+      "buy": [],
+      "close": "21:00",
+      "mapsSaved": true,
+      "savedEvidence": {
+        "list": "餐廳",
+        "name": "Unafuji Meieki Store",
+        "checked": "2026-10-10",
+        "method": "Google Maps 已登入帳號收藏清單，核對實際分店"
+      }
+    },
+    "mutsumi": {
+      "id": "mutsumi",
+      "name": "手羽先 むつみ",
+      "ja": "手羽先 むつみ",
+      "address": "愛知県名古屋市中区栄3-8-125",
+      "phone": "",
+      "source": "https://www.tabemaro.jp/shop/mutsumi/",
+      "hours": "",
+      "guide": "既有雞翅選項保留。店家營業與座位先確認，點雞肉熟食，不選牛肉、生魚片與內臟。",
+      "dishes": [
+        "甘辛醬雞翅"
+      ],
+      "buy": [],
+      "mapsSaved": true,
+      "savedEvidence": {
+        "list": "餐廳",
+        "name": "手羽先睦 本店",
+        "checked": "2026-10-10",
+        "method": "Google Maps 已登入帳號收藏清單，核對實際分店"
+      }
+    },
+    "chitose": {
+      "id": "chitose",
+      "name": "ちとせ",
+      "ja": "ちとせ",
+      "address": "岐阜県高山市花里町6-19",
+      "phone": "0577-32-1056",
+      "source": "https://www.hidatakayama.or.jp/special/detail_130.html",
+      "hours": "平日11:00–14:50／17:00–19:00；週二休",
+      "guide": "地方人熟悉的炒麵店，自製中太麵與醬汁是特色。10/12為假日，18:00左右吃；10/13週二休，不放隔天備案。",
+      "dishes": [
+        "豬肉炒麵：點餐時確認肉種"
+      ],
+      "buy": [],
+      "close": "19:00"
+    },
+    "katsuan": {
+      "id": "katsuan",
+      "name": "かつ庵 41號高山店",
+      "ja": "かつ庵 41号高山店",
+      "address": "岐阜県高山市上岡本町3-242-1",
+      "phone": "",
+      "source": "https://maps.katsuan.co.jp/jp/detail/5144.html",
+      "hours": "10:00–24:00，最後點餐23:30",
+      "guide": "有停車場，可作高山晚餐較晚抵達的備案。避開牛筋烏龍麵、成分不明的咖哩與牛肉配餐。",
+      "dishes": [
+        "熟成豬里肌炸豬排定食"
+      ],
+      "buy": []
+    },
+    "soba": {
+      "id": "soba",
+      "name": "手打ち蕎麦 Arai",
+      "ja": "手打ちそば あらい",
+      "address": "岐阜県大野郡白川村飯島257-2",
+      "phone": "05769-6-1103",
+      "source": "https://shirakawa-go.gr.jp/shop/65/",
+      "hours": "11:00–14:00；週二休；先致電確認已復業",
+      "guide": "白川鄉IC附近，選此備案要先吃再開入村落停車場。觀光協會仍留有休業至2026年3月底的備註，不能直接當成10月正常營業；先致電確認。只選蕎麥、蔬菜與已確認的配料。",
+      "dishes": [
+        "ざるそば 蕎麥麵"
+      ],
+      "buy": [],
+      "close": "14:00",
+      "needsCheck": "先確認10/12營業，若塞車將錯過14:00則用村內主選。"
+    },
+    "nomura": {
+      "id": "nomura",
+      "name": "そば処 乃むら",
+      "ja": "そば処 乃むら",
+      "address": "岐阜県大野郡白川村荻町779",
+      "phone": "05769-6-1508",
+      "source": "https://shirakawa-go.gr.jp/shop/6/",
+      "hours": "當日營業與售完情況須確認",
+      "guide": "村內12席的蕎麥店，每天現做；從停車場步行入村用餐，和下午村落散步同方向。人多時容易候位，先問等候時間；單點蕎麥、配料另確認。",
+      "dishes": [
+        "單點手打蕎麥麵"
+      ],
+      "buy": []
+    },
+    "bakery": {
+      "id": "bakery",
+      "name": "阿爾卑斯麵包店",
+      "ja": "アルプスのパン屋さん",
+      "address": "岐阜県高山市奥飛騨温泉郷神坂711-1 しらかば平駅2F",
+      "phone": "",
+      "source": "https://shinhotaka-ropeway.jp/eat/",
+      "hours": "09:00–16:30",
+      "guide": "選不含牛肉的吐司與味噌麵包，避開飛驒牛咖哩麵包。下山在白樺平搭飲料休息；也可作簡單午餐。",
+      "dishes": [
+        "ゴンドラ食パン 纜車吐司",
+        "朴葉味噌麵包"
+      ],
+      "buy": [
+        "纜車烙印吐司：當日供應為準"
+      ],
+      "close": "16:30"
+    },
+    "kasaga": {
+      "id": "kasaga",
+      "name": "喫茶・軽食 笠ヶ岳",
+      "ja": "喫茶・軽食 笠ヶ岳",
+      "address": "岐阜県高山市奥飛騨温泉郷神坂710-58 新穂高温泉駅1F",
+      "phone": "",
+      "source": "https://shinhotaka-ropeway.jp/eat/",
+      "hours": "09:00–14:00",
+      "guide": "纜車上山前的簡餐選項。熱食配方若不明先問；若想吃份量更足，提早備好飯糰，不選未知肉類咖哩。",
+      "dishes": [
+        "野澤菜おやき",
+        "天ぷらまんじゅう"
+      ],
+      "buy": [],
+      "close": "14:00"
+    },
+    "megumi": {
+      "id": "megumi",
+      "name": "MEGUMI",
+      "ja": "MEGUMI 西穂高口駅",
+      "address": "岐阜県高山市奥飛騨温泉郷神坂710-58 西穂高口駅",
+      "phone": "",
+      "source": "https://shinhotaka-ropeway.jp/goods/",
+      "hours": "09:00–16:45；季節可能調整",
+      "guide": "在山頂完成限定周邊採買，再搭纜車下山。款式與庫存隨季節變動。",
+      "dishes": [],
+      "buy": [
+        "西穗高口限定 mont-bell「頂」系列",
+        "頂字水瓶",
+        "雲海餅"
+      ],
+      "close": "16:45"
+    },
+    "tsumugi": {
+      "id": "tsumugi",
+      "name": "TSUMUGI STORE",
+      "ja": "TSUMUGI STORE しらかば平駅",
+      "address": "岐阜県高山市奥飛騨温泉郷神坂711-1 しらかば平駅",
+      "phone": "",
+      "source": "https://shinhotaka-ropeway.jp/goods/",
+      "hours": "09:00–16:45；季節可能調整",
+      "guide": "白樺平站的禮品店，和麵包店一起逛。買完再取車去大橋，避免回頭重搭纜車。",
+      "dishes": [],
+      "buy": [
+        "木製貼紙",
+        "纜車造型商品",
+        "AlpScape T-shirt"
+      ],
+      "close": "16:45"
+    },
+    "nonki": {
+      "id": "nonki",
+      "name": "内野酒店 のんき村",
+      "ja": "内野酒店 のんき村",
+      "address": "岐阜県高山市奥飛騨温泉郷中尾267",
+      "phone": "0578-89-2422",
+      "source": "https://okuhida.or.jp/p/sightseeing/内野酒店　のんき村/",
+      "hours": "觀光協會列09:00–22:00；最後點餐21:00；週四休",
+      "guide": "中尾區的輕食選項，地理上靠近兩晚旅宿。觀光協會已列晚間營業；兩晚仍先電話問臨休與炒飯肉種、湯頭，按不含牛羊、內臟的熟食點餐。",
+      "dishes": [
+        "炒飯：確認肉類為豬或雞"
+      ],
+      "buy": [],
+      "needsCheck": "兩晚先電話確認臨休與餐點材料。",
+      "close": "22:00"
+    },
+    "unatei": {
+      "id": "unatei",
+      "name": "うな亭",
+      "ja": "うな亭",
+      "address": "岐阜県高山市奥飛騨温泉郷一重ヶ根723",
+      "phone": "0578-89-2359",
+      "source": "https://www.hidatakayama.or.jp/eat/detail_3717.html",
+      "hours": "11:00起、售完為止；晚間供餐須電話確認",
+      "guide": "保留為奧飛驒晚餐候補。官方旅遊頁只列售完為止，晚間17:00供餐不可視為已確認；先致電，沒有晚餐就提前外帶或詢問旅館加餐。",
+      "dishes": [
+        "鰻魚飯",
+        "鰻魚飯糰"
+      ],
+      "buy": [],
+      "needsCheck": "需確認10/13、14夜間供餐。"
+    },
+    "gosen": {
+      "id": "gosen",
+      "name": "五千尺 Kitchen",
+      "ja": "五千尺キッチン 上高地",
+      "address": "長野県松本市安曇上高地 河童橋旁",
+      "phone": "",
+      "source": "https://gosenjakukitchen.jp/",
+      "hours": "午餐約11:00–15:00；季節調整",
+      "guide": "在河童橋旁吃午餐，方便決定下午路線。官方旅遊頁介紹豬肉咖哩，當日仍先確認湯底與配料。",
+      "dishes": [
+        "豬肉咖哩：當日確認配方"
+      ],
+      "buy": []
+    },
+    "kamikochidining": {
+      "id": "kamikochidining",
+      "name": "上高地食堂",
+      "ja": "上高地食堂",
+      "address": "長野県松本市安曇上高地 バスターミナル旁",
+      "phone": "",
+      "source": "https://www.kamikochi.or.jp/enjoy/restaurants_cafes/",
+      "hours": "",
+      "guide": "位於巴士總站附近，適合走4公里版後用餐。菜單與湯頭現場確認；走明神版先吃或帶補給，勿為午餐耽誤回程。",
+      "dishes": [
+        "蕎麥麵：選已確認的非牛肉配料"
+      ],
+      "buy": []
+    },
+    "shota": {
+      "id": "shota",
+      "name": "翔太のうどん",
+      "ja": "翔太のうどん",
+      "address": "岐阜県郡上市八幡町新町945",
+      "phone": "090-3589-2129",
+      "source": "https://shotanoudon.jp/location/",
+      "hours": "一、四、五、六、日11:00–13:45；二、三休",
+      "guide": "10/12週一列在固定營業日；11:00–13:45，抵達郡上後先用餐。天婦羅確認香菇與肉種。店家無專用停車場，建議附近付費停車場；手機號可能無法車機定位，改用地址。",
+      "dishes": [
+        "天婦羅烏龍麵：確認配料"
+      ],
+      "buy": [],
+      "close": "13:45"
+    },
+    "matsui": {
+      "id": "matsui",
+      "name": "蕎麥正 まつい",
+      "ja": "蕎麦正 まつい 郡上八幡",
+      "address": "岐阜県郡上市八幡町鍛冶屋町774-2",
+      "phone": "0575-67-0670",
+      "source": "https://r.goope.jp/matsui/",
+      "hours": "11:00起，售完為止；10/12未列在2026年10月公告店休日",
+      "guide": "郡上八幡的手打蕎麥店，選ざるそば；店前6個停車位，滿位改城下町公共停車場。10月店休為7、13、14、21、28日；臨休與售完仍需當日確認。",
+      "dishes": [
+        "ざるそば 蕎麥麵"
+      ],
+      "buy": [],
+      "links": [
+        {
+          "label": "2026年10月店休公告",
+          "url": "https://r.goope.jp/matsui/info"
+        }
+      ]
+    },
+    "juhyo": {
+      "id": "juhyo",
+      "name": "壽俵屋 犬山庵",
+      "ja": "匠茶房 壽俵屋 犬山庵",
+      "address": "愛知県犬山市犬山西古券15",
+      "phone": "0568-62-2244",
+      "source": "https://inuyama.gr.jp/gourmet/detail/13/",
+      "hours": "10:00–16:30；週二休",
+      "guide": "用守口漬做成輕食，午餐選飯糰與素麵；守口漬霜淇淋可作飯後點心。官方現行菜單未列原先烤魚套餐，因此不把烤魚當必點。",
+      "dishes": [
+        "縁むすび與素麵套餐"
+      ],
+      "buy": [
+        "守口漬小包裝"
+      ],
+      "close": "16:30"
+    },
+    "matsuno": {
+      "id": "matsuno",
+      "name": "松野屋 犬山本店",
+      "ja": "松野屋 犬山本店",
+      "address": "",
+      "phone": "",
+      "source": "https://dengaku-matsunoya.com/",
+      "hours": "午餐11:00–15:00、LO14:30；週四休資料需當日確認",
+      "guide": "採用國產大豆製作豆腐田樂，搭菜飯。前版「松里」店名未能查證，此處提供可查證的松野屋作午餐備案。",
+      "dishes": [
+        "豆腐田樂",
+        "菜飯"
+      ],
+      "buy": [],
+      "close": "15:00"
+    },
+    "torisanwa": {
+      "id": "torisanwa",
+      "name": "鶏三和 中部機場店",
+      "ja": "鶏三和 中部国際空港店",
+      "address": "中部国際空港 第1ターミナル4F",
+      "phone": "",
+      "source": "https://www.centrair.jp/shop-dine/restaurant/torisanwa.html",
+      "hours": "",
+      "guide": "出境前在T1 4F吃雞肉熟食；候位太久就切換備案，先完成報到再用餐。",
+      "dishes": [
+        "名古屋コーチン親子丼",
+        "唐揚雞肉定食"
+      ],
+      "buy": []
+    },
+    "kanemitsu": {
+      "id": "kanemitsu",
+      "name": "うなぎの兼光 中日大樓店",
+      "ja": "うなぎの兼光 中日ビル店",
+      "address": "愛知県名古屋市中区栄4-1-1 中日ビル3F304",
+      "phone": "052-890-9933",
+      "source": "https://unaginokanemitsu.jp/chunichi-building/",
+      "hours": "11:00–22:00；最後點餐21:00",
+      "guide": "位於榮的中日大樓，和市區散步同一路線。點熟鰻魚飯，避免肝料理；座位與候位當日確認。",
+      "dishes": [
+        "鰻魚飯：不加肝、肝吸い改普通湯"
+      ],
+      "buy": [],
+      "close": "22:00"
+    },
+    "yabang": {
+      "id": "yabang",
+      "name": "矢場とん 中部機場店",
+      "ja": "矢場とん 中部国際空港店",
+      "address": "中部国際空港 第1ターミナル4F",
+      "phone": "",
+      "source": "https://www.centrair.jp/",
+      "hours": "",
+      "guide": "原先含生魚片的機場套餐改成豬排選項。餐廳位於出境前區域，保留安檢與登機時間。",
+      "dishes": [
+        "味噌豬排定食"
+      ],
+      "buy": []
+    },
+    "tk": {
+      "id": "tk",
+      "name": "頂呱呱 桃園機場店",
+      "ja": "頂呱呱 桃園機場第一航廈",
+      "address": "",
+      "phone": "",
+      "source": "https://web.taoyuan-airport.com/services_facilities?p=1",
+      "hours": "",
+      "guide": "T1出發前選雞肉套餐；依登機口確認所在管制區與店家營業。",
+      "dishes": [
+        "炸雞套餐"
+      ],
+      "buy": [],
+      "navReady": false
+    },
+    "hsy": {
+      "id": "hsy",
+      "name": "新東陽台灣美食",
+      "ja": "新東陽 桃園機場第一航廈",
+      "address": "",
+      "phone": "",
+      "source": "https://web.taoyuan-airport.com/services_facilities?p=1",
+      "hours": "",
+      "guide": "機場備案，選豬肉或雞肉熟食。實際櫃位與營業依機場資訊，避免跨航廈找餐廳。",
+      "dishes": [
+        "豬肉或雞肉熟食：依現場菜單"
+      ],
+      "buy": [],
+      "navReady": false
+    },
+    "alpen": {
+      "id": "alpen",
+      "name": "Alpen NAGOYA",
+      "ja": "Alpen NAGOYA",
+      "address": "愛知県名古屋市中区栄3-18-1 NADYA PARK B1F–5F",
+      "phone": "",
+      "source": "https://www.nadyapark.jp/info/faq.php",
+      "hours": "10:00–21:00",
+      "guide": "戶外用品樓層先逛，依需要挑防風外套與山區用品。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "21:00",
+      "shopDay": 11
+    },
+    "keen": {
+      "id": "keen",
+      "name": "KEEN",
+      "ja": "KEEN GARAGE NAGOYA",
+      "address": "愛知県名古屋市中区栄3-6-1 LACHIC 5F",
+      "phone": "",
+      "source": "https://www.keenfootwear.jp/pages/keen-garages/keen-garage-nagoya",
+      "hours": "11:00–21:00",
+      "guide": "先試穿、比較尺寸。若大須逛久，移到10/16與BEAMS一起逛。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "21:00",
+      "shopDay": 11
+    },
+    "montbell": {
+      "id": "montbell",
+      "name": "Mont-bell",
+      "ja": "モンベル 名古屋栄店",
+      "address": "愛知県名古屋市中区栄4-1-1 中日ビル2F",
+      "phone": "",
+      "source": "https://chunichi-building.jp/shop/p770/",
+      "hours": "10:00–20:00",
+      "guide": "安排上山前補齊保暖或雨具；晚上20:00關門。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "20:00",
+      "shopDay": 11
+    },
+    "uniqlo": {
+      "id": "uniqlo",
+      "name": "UNIQLO",
+      "ja": "ユニクロ 栄スカイル店",
+      "address": "愛知県名古屋市中区栄3-4-5 SKYLE 5F",
+      "phone": "",
+      "source": "https://skyle.jp/floor/5f_uniqlo.html",
+      "hours": "10:00–20:00",
+      "guide": "10/16下午購物，同館接3COINS；10:00–20:00。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "20:00",
+      "shopDay": 16
+    },
+    "3coins": {
+      "id": "3coins",
+      "name": "3COINS+plus",
+      "ja": "3COINS+plus メルサ栄店",
+      "address": "愛知県名古屋市中区栄3-4-5 MELSA 4F",
+      "phone": "",
+      "source": "https://skyle.jp/floor/1412-2.html",
+      "hours": "10:00–20:00",
+      "guide": "UNIQLO逛完下樓挑生活雜貨。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "20:00",
+      "shopDay": 16
+    },
+    "muji": {
+      "id": "muji",
+      "name": "無印良品",
+      "ja": "無印良品 マルエイガレリア",
+      "address": "愛知県名古屋市中区栄3-3-1 マルエイガレリア2F",
+      "phone": "",
+      "source": "https://www.muji.com/jp/ja/shop/detail/046710",
+      "hours": "10:00–21:00",
+      "guide": "鄰近SKYLE，晚於20:00仍可安排。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "21:00",
+      "shopDay": 16
+    },
+    "beams": {
+      "id": "beams",
+      "name": "BEAMS",
+      "ja": "ビームス 名古屋",
+      "address": "愛知県名古屋市中区栄3-6-1 LACHIC 2F",
+      "phone": "",
+      "source": "https://www.beams.co.jp/shop/bna/",
+      "hours": "11:00–21:00",
+      "guide": "與KEEN同館，移動購物行程時可合併。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "21:00",
+      "shopDay": 16
+    },
+    "snowpeak": {
+      "id": "snowpeak",
+      "name": "Snow Peak",
+      "ja": "Snow Peak 久屋大通公園",
+      "address": "愛知県名古屋市中区錦3-5-15先 RAYARD Hisaya-odori Park ZONE3",
+      "phone": "",
+      "source": "https://sbs.snowpeak.co.jp/hisayaodoripark/",
+      "hours": "10:00–20:00",
+      "guide": "接在公園散步，和名古屋祭南側廣場之間留步行時間。",
+      "dishes": [],
+      "buy": [
+        "依現場款式、尺寸挑選"
+      ],
+      "close": "20:00",
+      "shopDay": 17
+    },
+    "haera": {
+      "id": "haera",
+      "name": "HAERA｜Snow Peak・SMYTHSON・屋上廣場",
+      "ja": "HAERA ハエラ",
+      "address": "愛知県名古屋市中区錦3丁目25番1号",
+      "phone": "",
+      "source": "https://haera.parco.jp/facilities/",
+      "hours": "物販10:00–20:00；屋上廣場的開放時間、天候限制依現場公告。",
+      "guide": "同館逛2F Snow Peak，再到3F SMYTHSON看皮件與手帳，最後上4F／5F屋上廣場看久屋大通公園。這裡是商場上方的廣場，並非大樓最高層觀景臺。",
+      "buy": [
+        "Snow Peak服飾與日常用品",
+        "SMYTHSON皮件、手帳"
+      ],
+      "links": [
+        {
+          "label": "Snow Peak｜2F",
+          "url": "https://haera.parco.jp/shop/detail/?cd=000061"
+        },
+        {
+          "label": "SMYTHSON｜3F",
+          "url": "https://haera.parco.jp/shop/detail/?cd=000077"
+        },
+        {
+          "label": "4F／5F屋上廣場｜建物官方資訊",
+          "url": "https://www.mec.co.jp/news/detail/2026/03/17_mec260317_thelandmark-nagoyasakae"
+        }
+      ]
+    },
+    "parco": {
+      "id": "parco",
+      "name": "名古屋 PARCO",
+      "ja": "名古屋PARCO",
+      "address": "愛知県名古屋市中区栄3-29-1",
+      "phone": "052-264-8111",
+      "source": "https://nagoya.parco.jp/info/",
+      "hours": "物販10:00–20:00；個別店鋪可能不同。",
+      "guide": "從矢場町站出發，依樓層指南挑店逛；離午餐的矢場とん本店近。上午先逛，再依漏買清單去榮區補貨。",
+      "buy": [],
+      "links": [
+        {
+          "label": "PARCO樓層指南",
+          "url": "https://nagoya.parco.jp/floor/"
+        }
+      ]
+    },
+    "jolly": {
+      "id": "jolly",
+      "name": "Jolly Pasta 高山店",
+      "ja": "ジョリーパスタ 高山店",
+      "address": "岐阜県高山市上岡本町7-15-1",
+      "phone": "0577-57-5930",
+      "source": "https://maps.jolly-pasta.co.jp/jp/detail/3730.html",
+      "hours": "平日11:00–24:00；週末、假日10:00–24:00；最後點餐23:30",
+      "close": "24:00",
+      "guide": "晚到高山的晚餐備案，選熟海鮮番茄義大利麵，不選牛肉肉醬或菇類口味。香菇、湯品與醬料成分點餐時確認。",
+      "dishes": [
+        "熟海鮮番茄義大利麵（ペスカトーレ）"
+      ],
+      "buy": [],
+      "links": [
+        {
+          "label": "海鮮番茄義大利麵菜單",
+          "url": "https://www.jolly-pasta.co.jp/menu/tomato/t_tomato_soup_pesu.html"
+        }
+      ]
+    },
+    "honmachi": {
+      "id": "honmachi",
+      "name": "本町茶寮",
+      "ja": "本町茶寮",
+      "address": "愛知県犬山市犬山東古券673",
+      "phone": "090-5606-3044",
+      "source": "https://inuyama.gr.jp/gourmet/detail/17/",
+      "hours": "11:00–17:00；年中無休（臨休當日確認）",
+      "close": "17:00",
+      "guide": "城下町本町通的古民家茶寮，選田樂、菜飯。七種田樂的醬料、配料及吸物先確認香菇；不選含不明肉類的餐點。",
+      "dishes": [
+        "田樂與菜飯"
+      ],
+      "buy": []
+    }
+  },
+  "weather": {
+    "nagoya": {
+      "name": "名古屋",
+      "lat": 35.1815,
+      "lon": 136.9066,
+      "elevation": 20
+    },
+    "takayama": {
+      "name": "高山",
+      "lat": 36.146,
+      "lon": 137.252,
+      "elevation": 570
+    },
+    "shirakawa": {
+      "name": "白川鄉",
+      "lat": 36.256,
+      "lon": 136.906,
+      "elevation": 500
+    },
+    "rope": {
+      "name": "新穗高山麓",
+      "lat": 36.285,
+      "lon": 137.575,
+      "elevation": 1117
+    },
+    "summit": {
+      "name": "西穗高口山頂",
+      "lat": 36.297,
+      "lon": 137.6,
+      "elevation": 2156
+    },
+    "kamikochi": {
+      "name": "上高地",
+      "lat": 36.247,
+      "lon": 137.637,
+      "elevation": 1500
+    },
+    "inuyama": {
+      "name": "犬山",
+      "lat": 35.389,
+      "lon": 136.944,
+      "elevation": 50
+    },
+    "gujo": {
+      "name": "郡上八幡",
+      "lat": 35.75,
+      "lon": 136.96,
+      "elevation": 220
+    }
+  },
+  "days": [
+    {
+      "date": "2026-10-10",
+      "title": "出發，先吃一頓名古屋",
+      "region": "台北 → 名古屋",
+      "summary": "飛往名古屋，進榮區入住；晚餐是已選好的 Fumiya。",
+      "weather": [
+        "nagoya"
+      ],
+      "notes": [
+        "航班與航廈依原表；登機口以當日登機證／螢幕為準。",
+        "所有行程時間以日本時間顯示；去程TPE 14:55換算日本時間15:55。"
+      ],
+      "items": [
+        {
+          "id": "d10-01",
+          "date": "2026-10-10",
+          "time": "13:00",
+          "kind": "transport",
+          "title": "報到・行李托運",
+          "place": "tpe",
+          "duration": 60,
+          "note": "台灣12:00到T1為規劃目標，非機場接送訂單。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d10-03",
+          "date": "2026-10-10",
+          "time": "15:55",
+          "kind": "transport",
+          "title": "JX838｜TPE → NGO",
+          "place": "ngo",
+          "duration": 170,
+          "note": "台灣起飛14:55 T1 → 日本抵達18:45 T1；登機口待確認。",
+          "fixed": true,
+          "options": []
+        },
+        {
+          "id": "d10-04",
+          "date": "2026-10-10",
+          "time": "18:45",
+          "kind": "transport",
+          "title": "抵達・入境・領行李",
+          "place": "ngo",
+          "duration": 75,
+          "note": "",
+          "fixed": true,
+          "options": []
+        },
+        {
+          "id": "d10-05",
+          "date": "2026-10-10",
+          "time": "20:00",
+          "kind": "transport",
+          "title": "名鐵 → 名古屋站 → 榮",
+          "place": "sakae",
+          "duration": 60,
+          "note": "μ-SKY需另購特別車輛券；依實際到站班次選車，不寫死班次。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d10-06",
+          "date": "2026-10-10",
+          "time": "21:00",
+          "kind": "stay",
+          "title": "入住榮區",
+          "place": "comfort",
+          "duration": 20,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d10-07",
+          "date": "2026-10-10",
+          "time": "21:20",
+          "kind": "food",
+          "title": "晚餐｜Fumiya Nishiki",
+          "place": null,
+          "duration": 60,
+          "note": "Fumiya為已選主餐廳；若延誤先確認最後點餐。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "fumiya",
+            "shige"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "title": "神宮、大須，補齊山上用品",
+      "region": "名古屋",
+      "summary": "參拜與商店街散步，傍晚集中逛戶外店。",
+      "weather": [
+        "nagoya"
+      ],
+      "notes": [
+        "Mont-bell 20:00關門，購物排晚餐前。",
+        "大須逛久就把KEEN移到10/16，不必趕完全部店。"
+      ],
+      "items": [
+        {
+          "id": "d11-01",
+          "date": "2026-10-11",
+          "time": "09:00",
+          "kind": "sight",
+          "title": "林蔭裡的熱田神宮",
+          "place": "atsuta",
+          "duration": 90,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d11-02",
+          "date": "2026-10-11",
+          "time": "11:00",
+          "kind": "food",
+          "title": "午餐｜名古屋味",
+          "place": null,
+          "duration": 75,
+          "note": "蓬萊軒需預留候位；太久改豬排，不壓縮下午。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "houraiken",
+            "yaba"
+          ]
+        },
+        {
+          "id": "d11-03",
+          "date": "2026-10-11",
+          "time": "13:00",
+          "kind": "sight",
+          "title": "大須商店街，慢慢逛",
+          "place": "osu",
+          "duration": 165,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d11-04",
+          "date": "2026-10-11",
+          "time": "15:45",
+          "kind": "transport",
+          "title": "回到榮區",
+          "place": "sakae",
+          "duration": 15,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d11-05",
+          "date": "2026-10-11",
+          "time": "16:00",
+          "kind": "shop",
+          "title": "Alpen｜戶外裝備",
+          "place": "alpen",
+          "duration": 60,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d11-06",
+          "date": "2026-10-11",
+          "time": "17:10",
+          "kind": "shop",
+          "title": "KEEN｜試穿鞋款",
+          "place": "keen",
+          "duration": 35,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d11-07",
+          "date": "2026-10-11",
+          "time": "18:00",
+          "kind": "shop",
+          "title": "Mont-bell｜保暖與雨具",
+          "place": "montbell",
+          "duration": 45,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d11-08",
+          "date": "2026-10-11",
+          "time": "19:00",
+          "kind": "food",
+          "title": "晚餐｜雞翅或燒鳥",
+          "place": null,
+          "duration": 75,
+          "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "furaibo",
+            "shige"
+          ]
+        },
+        {
+          "id": "d11-09",
+          "date": "2026-10-11",
+          "time": "20:30",
+          "kind": "stay",
+          "title": "回飯店・整理自駕行李",
+          "place": "comfort",
+          "duration": 20,
+          "note": "",
+          "fixed": false,
+          "options": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "title": "郡上水路、合掌村，晚到高山",
+      "region": "名古屋 → 郡上八幡 → 白川鄉 → 高山",
+      "summary": "郡上午餐與古街，下午短逛合掌村，晚餐保留晚到的彈性。",
+      "weather": [
+        "gujo",
+        "shirakawa",
+        "takayama"
+      ],
+      "notes": [
+        "車程為規劃估算；10/12為Sports Day假日，當天依導航與停車排隊調整。",
+        "13:45離開郡上，最晚14:00上路；塞車時先縮短郡上散步。",
+        "白川鄉停車場16:30最後入場、17:00關閉，小客車¥2,000。",
+        "合掌村留約70分鐘；展望點視剩餘時間與接駁狀況，避免壓縮回停車場時間。",
+        "高山預估18:00–18:30入住，晚到入住方式需向房東確認。"
+      ],
+      "items": [
+        {
+          "id": "d12-01",
+          "date": "2026-10-12",
+          "time": "09:20",
+          "kind": "transport",
+          "title": "退房・步行前往租車店",
+          "place": "hm",
+          "duration": 40,
+          "note": "名古屋站到店步行約10分鐘；行李多留額外時間。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-02",
+          "date": "2026-10-12",
+          "time": "10:00",
+          "kind": "transport",
+          "title": "取車與車況拍照",
+          "place": "hm",
+          "duration": 30,
+          "note": "確認ETC、保險、油種與還車時間；座位4人、行李空間須現場確認。拍攝整車照片，清楚顯示廠牌與車牌，供你傳給今晚Airbnb房東辨識車輛。",
+          "fixed": true,
+          "options": []
+        },
+        {
+          "id": "d12-03",
+          "date": "2026-10-12",
+          "time": "10:30",
+          "kind": "transport",
+          "title": "自駕往郡上八幡・停車",
+          "place": "gujo",
+          "duration": 90,
+          "note": "名古屋到郡上先抓約1.5小時，包含找停車位；假日塞車依導航調整。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d15-02",
+          "date": "2026-10-12",
+          "time": "12:00",
+          "kind": "food",
+          "title": "午餐｜郡上手打麵",
+          "place": null,
+          "duration": 45,
+          "note": "翔太週一11:00–13:45；まつい11:00起售完為止。抵達後先吃飯；排隊較久就縮短散步，最晚14:00離開郡上。",
+          "fixed": false,
+          "options": [
+            "shota",
+            "matsui"
+          ]
+        },
+        {
+          "id": "d15-03",
+          "date": "2026-10-12",
+          "time": "12:45",
+          "kind": "sight",
+          "title": "郡上八幡城下町・水路與吉田川",
+          "place": "gujo",
+          "duration": 60,
+          "note": "保留古街、水路與河景，這次不另加登城；13:45返回車上出發。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-gujo-shirakawa",
+          "date": "2026-10-12",
+          "time": "13:45",
+          "kind": "transport",
+          "title": "郡上 → 白川鄉",
+          "place": "seseragi",
+          "duration": 90,
+          "note": "車程與停車排隊依當天導航；目標15:15–15:30入停車場，最晚16:30最後入場。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-parking",
+          "date": "2026-10-12",
+          "time": "15:15",
+          "kind": "transport",
+          "title": "白川鄉停車・準備散步",
+          "place": "seseragi",
+          "duration": 15,
+          "note": "小客車¥2,000；依現場指揮停車，計入步行回車的時間。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-05",
+          "date": "2026-10-12",
+          "time": "15:30",
+          "kind": "sight",
+          "title": "合掌村短逛・展望點視時間",
+          "place": "shirakawa",
+          "duration": 70,
+          "note": "村內散步、拍照優先，展望點看剩餘時間與接駁狀況；16:40往停車場，17:00前離場。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-06",
+          "date": "2026-10-12",
+          "time": "16:40",
+          "kind": "transport",
+          "title": "回停車場・自駕往高山",
+          "place": "takayama",
+          "duration": 80,
+          "note": "先留約20分鐘取車，17:00前離開停車場；接高速往高山，預估18:00–18:30抵達。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-07",
+          "date": "2026-10-12",
+          "time": "18:00",
+          "kind": "stay",
+          "title": "高山入住",
+          "place": "pegasus",
+          "duration": 30,
+          "note": "預估18:00–18:30抵達。晚到入住方式、完整地址與房號依Airbnb訂單；停車後拍整車、廠牌與車牌，由你傳給房東。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d12-08",
+          "date": "2026-10-12",
+          "time": "19:00",
+          "kind": "food",
+          "title": "晚餐｜高山晚到也能吃",
+          "place": null,
+          "duration": 60,
+          "note": "兩間營業到24:00、最後點餐23:30。選豬排或熟海鮮義大利麵；香菇、湯品與醬料先問店員。ちとせ不放這天晚餐。",
+          "fixed": false,
+          "options": [
+            "katsuan",
+            "jolly"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "title": "纜車、山頂小店與白色拱橋",
+      "region": "高山 → 新穗高 → 中尾",
+      "summary": "早市補給，上山看風景；沿下山方向完成購物。",
+      "weather": [
+        "takayama",
+        "rope",
+        "summit"
+      ],
+      "notes": [
+        "先查纜車運行與山頂能見度。",
+        "麵包店16:30、禮品店16:45關門，購物抓16:00前完成。",
+        "晚餐選項先電話確認；旅館訂單只含早餐。"
+      ],
+      "items": [
+        {
+          "id": "d13-01",
+          "date": "2026-10-13",
+          "time": "07:30",
+          "kind": "sight",
+          "title": "宮川朝市",
+          "place": "market",
+          "duration": 60,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-02",
+          "date": "2026-10-13",
+          "time": "08:40",
+          "kind": "sight",
+          "title": "高山老街・採買補給",
+          "place": "takayama",
+          "duration": 60,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-03",
+          "date": "2026-10-13",
+          "time": "10:00",
+          "kind": "transport",
+          "title": "退房・整理行李",
+          "place": "pegasus",
+          "duration": 30,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-04",
+          "date": "2026-10-13",
+          "time": "10:30",
+          "kind": "transport",
+          "title": "自駕往新穗高",
+          "place": "rope",
+          "duration": 105,
+          "note": "高山至新穗高抓1.5～2小時。導航到觀光停車場。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-05",
+          "date": "2026-10-13",
+          "time": "12:15",
+          "kind": "food",
+          "title": "午餐｜纜車站簡餐",
+          "place": null,
+          "duration": 40,
+          "note": "笠ヶ岳14:00關門；麵包為輕食，份量不足可搭預先買好的補給。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "kasaga",
+            "bakery"
+          ]
+        },
+        {
+          "id": "d13-06",
+          "date": "2026-10-13",
+          "time": "13:00",
+          "kind": "sight",
+          "title": "新穗高纜車・西穗高口",
+          "place": "rope",
+          "duration": 100,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-07",
+          "date": "2026-10-13",
+          "time": "14:40",
+          "kind": "shop",
+          "title": "MEGUMI｜山頂限定周邊",
+          "place": "megumi",
+          "duration": 25,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-08",
+          "date": "2026-10-13",
+          "time": "15:05",
+          "kind": "transport",
+          "title": "纜車下到白樺平",
+          "place": "rope",
+          "duration": 20,
+          "note": "依實際班次與排隊調整。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-09",
+          "date": "2026-10-13",
+          "time": "15:25",
+          "kind": "shop",
+          "title": "阿爾卑斯麵包店｜下午點心",
+          "place": "bakery",
+          "duration": 20,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-10",
+          "date": "2026-10-13",
+          "time": "15:45",
+          "kind": "shop",
+          "title": "TSUMUGI STORE｜禮品",
+          "place": "tsumugi",
+          "duration": 20,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-11",
+          "date": "2026-10-13",
+          "time": "16:10",
+          "kind": "sight",
+          "title": "北阿爾卑斯大橋・展望園地",
+          "place": "bridge",
+          "duration": 50,
+          "note": "含取車、短程移動與拍照；橋上不臨停。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-12",
+          "date": "2026-10-13",
+          "time": "17:10",
+          "kind": "stay",
+          "title": "山荘錫杖入住・泡湯",
+          "place": "syaku",
+          "duration": 45,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d13-13",
+          "date": "2026-10-13",
+          "time": "18:00",
+          "kind": "food",
+          "title": "晚餐｜中尾／新平湯",
+          "place": null,
+          "duration": 60,
+          "note": "兩家均須電話確認晚間供餐；可問旅館加餐，確認後再變更。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "nonki",
+            "unatei"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "title": "上高地，走到剛剛好",
+      "region": "奧飛驒 → 上高地 → 奧飛驒",
+      "summary": "大正池出發，河童橋依天氣與體力選路。",
+      "weather": [
+        "kamikochi",
+        "rope"
+      ],
+      "notes": [
+        "一般車不能開入上高地；停あかんだな再搭巴士。",
+        "4公里與10公里是同一天的兩個版本，非先後兩段行程。",
+        "回程目標15:00–15:30；官方末班17:30，請留排隊緩衝。",
+        "完整散策純步行約3小時10～3小時30分；明神池拍照、午餐與排隊另計。⑧明神橋左岸端→⑪總站約55–60分，池區到橋頭另計。",
+        "17:00為回平湯倒數第二班：17:25平湯、17:30停車場。走完整明神池路線，建議13:30前到河童橋、13:40前出發，預計16:30回站候車；午餐須先吃完。原15:30目標保留。"
+      ],
+      "items": [
+        {
+          "id": "d14-01",
+          "date": "2026-10-14",
+          "time": "07:30",
+          "kind": "transport",
+          "title": "早餐・退房・行李放車上",
+          "place": "syaku",
+          "duration": 40,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d14-02",
+          "date": "2026-10-14",
+          "time": "08:10",
+          "kind": "transport",
+          "title": "自駕至あかんだな・買票排隊",
+          "place": "akandana",
+          "duration": 40,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d14-03",
+          "date": "2026-10-14",
+          "time": "08:50",
+          "kind": "transport",
+          "title": "巴士往大正池",
+          "place": "taisho",
+          "duration": 26,
+          "note": "2026班表08:50→09:16；自由座，目標班次非預約。",
+          "fixed": true,
+          "options": [],
+          "links": [
+            {
+              "label": "平湯↔上高地｜你提供的時刻表",
+              "url": "https://www.alpico.co.jp/tc/timetable/kamikochi/r-hirayuonsen-kamikochi/"
+            },
+            {
+              "label": "濃飛巴士｜2026日文時刻表",
+              "url": "https://www.nouhibus.co.jp/route_bus/kamikochi-line/"
+            }
+          ]
+        },
+        {
+          "id": "d14-04",
+          "date": "2026-10-14",
+          "time": "09:20",
+          "kind": "sight",
+          "title": "大正池 → 田代池、田代橋 → 河童橋",
+          "place": "kappa",
+          "duration": 130,
+          "note": "大正池→田代池約20分（官方目安）；田代池→田代橋18分／1.2km，田代橋→河童橋25分／1.5km（你的估算）。130分時段含停留拍照。",
+          "fixed": false,
+          "options": [],
+          "routeMap": true,
+          "introduction": {
+            "points": [
+              "上高地是海拔約1,500公尺的梓川河谷，屬中部山嶽國立公園。",
+              "大正池在1915年燒岳噴發後形成；從池面、田代濕原到河童橋，可看到河谷裡不同的水與森林景觀。"
+            ],
+            "sources": [
+              {
+                "label": "中文維基百科・上高地",
+                "url": "https://zh.wikipedia.org/zh-tw/上高地"
+              }
+            ]
+          }
+        },
+        {
+          "id": "d14-05",
+          "date": "2026-10-14",
+          "time": "11:30",
+          "kind": "choice",
+          "title": "河童橋｜選今天的步行版本",
+          "place": "kappa",
+          "duration": 15,
+          "note": "輕鬆版在河童橋休息後回總站；延伸版經岳澤濕原到明神池，再過明神橋走梓川左岸回總站。距離為整體概估。",
+          "fixed": false,
+          "options": [],
+          "routeMap": true
+        },
+        {
+          "id": "d14-06",
+          "date": "2026-10-14",
+          "time": "11:45",
+          "kind": "food",
+          "title": "午餐｜河童橋與總站周邊",
+          "place": null,
+          "duration": 50,
+          "note": "走明神可先用餐或帶補給；不把兩版的午餐重複排入。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "gosen",
+            "kamikochidining"
+          ]
+        },
+        {
+          "id": "d14-07",
+          "date": "2026-10-14",
+          "time": "12:35",
+          "kind": "sight",
+          "title": "岳澤濕原 → 明神池・明神橋 → 巴士總站",
+          "place": "myojin",
+          "duration": 145,
+          "note": "⑤→⑦15分、⑦→⑨45分；⑨↔⑩各估3–5分，⑨→⑧含過橋估5–10分，⑧左岸端→⑪估55–60分。從12:35出發，含池內15–30分約14:55–15:25回站，15:30班次須留排隊時間；145分時段僅較快情況足夠。17:00為較晚備案，建議13:30前到⑤、13:40前出發，16:30到⑪候車；午餐先吃完。輕鬆版跳過此段。",
+          "fixed": false,
+          "options": [],
+          "route": "long",
+          "routeMap": true
+        },
+        {
+          "id": "d14-08",
+          "date": "2026-10-14",
+          "time": "15:30",
+          "kind": "transport",
+          "title": "回程巴士・取車",
+          "place": "bus",
+          "duration": 40,
+          "note": "原目標15:30保留，提早15–20分排隊。較晚備案：倒數第二班17:00→平湯17:25→あかんだな17:30，建議16:30到總站候車。末班17:30→平湯17:55→停車場18:00。全車自由席，依排隊順序上車，候車緩衝不能保證搭上指定班次；當日查運行公告。",
+          "fixed": false,
+          "options": [],
+          "links": [
+            {
+              "label": "平湯↔上高地｜你提供的時刻表",
+              "url": "https://www.alpico.co.jp/tc/timetable/kamikochi/r-hirayuonsen-kamikochi/"
+            },
+            {
+              "label": "濃飛巴士｜2026日文時刻表",
+              "url": "https://www.nouhibus.co.jp/route_bus/kamikochi-line/"
+            }
+          ]
+        },
+        {
+          "id": "d14-09",
+          "date": "2026-10-14",
+          "time": "16:30",
+          "kind": "stay",
+          "title": "寶山荘別館入住",
+          "place": "hozanso",
+          "duration": 45,
+          "note": "17:00回程將17:30才到停車場，原16:30入住須順延；確認寶山荘別館最晚入住時間，並留意18:00晚餐的交通與供餐。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d14-10",
+          "date": "2026-10-14",
+          "time": "18:00",
+          "kind": "food",
+          "title": "晚餐｜奧飛驒熟食",
+          "place": null,
+          "duration": 60,
+          "note": "只含早餐；需在上高地出發前確認晚間供餐。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "nonki",
+            "unatei"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "title": "回程途經犬山，按時間慢慢決定",
+      "region": "奧飛驒 → 犬山 → 名古屋",
+      "summary": "早上回程，抵達犬山後再決定登城或短逛；延租仍待店家確認。",
+      "weather": [
+        "rope",
+        "inuyama",
+        "nagoya"
+      ],
+      "notes": [
+        "08:30出發，含休息抓約3.5–4小時，目標12:00–12:30抵達犬山；以當日導航為準。",
+        "12:30前到：午餐45分＋犬山城75分＋神社、城下町60分，約3小時。",
+        "12:30–14:00到：留1.5–2.5小時，按剩餘時間選登城或神社、城下町；14:00後到先短逛。",
+        "未確認延租：15:30離開犬山，17:30–18:00還車為目標；仍需配合訂單約定時間。",
+        "確認延租至10/16：犬山可留至16:30左右；隔天08:30–09:00還車，10:00開始購物。",
+        "延租費、保險、ETC、新還車時間與名古屋過夜停車先確認；門市19:00關門不等於訂單期限。"
+      ],
+      "items": [
+        {
+          "id": "d15-01",
+          "date": "2026-10-15",
+          "time": "08:30",
+          "kind": "transport",
+          "title": "退房・自駕往犬山",
+          "place": "inuyama",
+          "duration": 240,
+          "note": "包含中途休息先抓3.5–4小時；到犬山後依實際時間決定玩法，不為了排滿趕路。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-04",
+          "date": "2026-10-15",
+          "time": "12:30",
+          "kind": "food",
+          "title": "午餐｜犬山城下町",
+          "place": null,
+          "duration": 45,
+          "note": "壽俵屋的飯糰、素麵或本町茶寮田樂與菜飯；湯品、配料確認香菇。松野屋週四休，不作15號備案。",
+          "fixed": false,
+          "options": [
+            "juhyo",
+            "honmachi"
+          ]
+        },
+        {
+          "id": "d16-02",
+          "date": "2026-10-15",
+          "time": "13:15",
+          "kind": "sight",
+          "title": "犬山城・木曾川景色",
+          "place": "inuyama",
+          "duration": 75,
+          "note": "兩位成人合計¥2,000。09:00–17:00、16:30最後入場；時間包含排隊，晚到時評估是否登城。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-03",
+          "date": "2026-10-15",
+          "time": "14:30",
+          "kind": "sight",
+          "title": "三光稻荷神社・城下町",
+          "place": "sanko",
+          "duration": 20,
+          "note": "接在犬山城後；抵達較晚時，可選神社、城下町短逛。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-05",
+          "date": "2026-10-15",
+          "time": "14:50",
+          "kind": "sight",
+          "title": "城下町散步・小吃採買",
+          "place": "sanko",
+          "duration": 40,
+          "note": "未確認延租時15:30回車上離開；確認延租後可延長至16:30左右。",
+          "fixed": false,
+          "options": [],
+          "introduction": {
+            "points": [
+              "犬山城下町保留江戶時代城鎮的街巷，商家、寺院與通往城堡的道路相連。",
+              "沿本町通散步，可以看町屋店面與傳統街景；城下町和山麓的三光稻荷神社是相鄰的兩種風景。"
+            ],
+            "sources": [
+              {
+                "label": "犬山觀光官方・城下町",
+                "url": "https://inuyama.gr.jp/feature/detail/4/"
+              }
+            ]
+          }
+        },
+        {
+          "id": "d15-04",
+          "date": "2026-10-15",
+          "time": "15:30",
+          "kind": "transport",
+          "title": "犬山 → 名古屋",
+          "place": "hm",
+          "duration": 75,
+          "note": "未確認延租先照15:30出發；確認延租後可改16:30左右。車程與市區塞車依導航，保留加油、驗車時間。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d15-05",
+          "date": "2026-10-15",
+          "time": "16:45",
+          "kind": "transport",
+          "title": "市區加油・找還車入口",
+          "place": "hm",
+          "duration": 45,
+          "note": "當天還車時安排；若延租已確認，改隔天早上加油與還車，今晚確認過夜停車。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d15-06",
+          "date": "2026-10-15",
+          "time": "17:30",
+          "kind": "transport",
+          "title": "還車驗車・取回行李",
+          "place": "hm",
+          "duration": 30,
+          "note": "15號還車為預設目標，約定期限依訂單，延租尚未確認。只有店家核准後才跳過這站，改16號08:30–09:00還車。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d15-07",
+          "date": "2026-10-15",
+          "time": "18:30",
+          "kind": "stay",
+          "title": "入住 ACCESS by LOISIR",
+          "place": "loisir",
+          "duration": 25,
+          "note": "10/15入住，10/15、16連住雙床房（Trip.com）；10/17早上退房換房。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d15-08",
+          "date": "2026-10-15",
+          "time": "19:15",
+          "kind": "food",
+          "title": "晚餐｜鰻魚或燒鳥",
+          "place": null,
+          "duration": 75,
+          "note": "當天還車後留在名駅吃うな富士較順；先到飯店可選栄本店しげ。うな富士最後點餐20:30；避開鰻肝、肝吸い及雞內臟，配料、湯與醬料確認香菇。",
+          "fixed": false,
+          "options": [
+            "unafuji",
+            "shige"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "title": "名古屋購物，留一整天慢慢逛",
+      "region": "名古屋・榮",
+      "summary": "八個品牌按商場一起逛，買齊的店就略過，留時間給PARCO或HAERA。",
+      "weather": [
+        "nagoya"
+      ],
+      "notes": [
+        "只有店家確認延租才啟用08:30–09:00還車；否則早餐後慢慢出門。",
+        "10:00開始市區購物；LACHIC排11:00後，KEEN與BEAMS同館一起逛。",
+        "11號上山前補裝備保留；16號已買齊的品牌可略過，把時間給PARCO或HAERA。",
+        "17號HAERA、18號PARCO原安排保留，作補逛彈性。",
+        "晚餐選榮區しげ較方便；うな富士名駅店另抓20–30分鐘交通，20:30最後點餐。"
+      ],
+      "items": [
+        {
+          "id": "d16-extended-return",
+          "date": "2026-10-16",
+          "time": "08:30",
+          "kind": "transport",
+          "title": "延租確認後才使用｜加油與還車",
+          "place": "hm",
+          "duration": 30,
+          "note": "目前先跳過。只有店家確認延租與新還車時間，才啟用這站並略過15號加油、還車；10:00開始購物。加油應提前完成，預留驗車與回榮區交通。",
+          "fixed": false,
+          "options": [],
+          "status": "skipped",
+          "navigationMode": "driving"
+        },
+        {
+          "id": "d16-alpen",
+          "date": "2026-10-16",
+          "time": "10:00",
+          "kind": "shop",
+          "title": "Alpen NAGOYA｜戶外用品",
+          "place": "alpen",
+          "duration": 75,
+          "note": "11號已買齊的裝備可略過，空出的時間給PARCO或HAERA。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-10",
+          "date": "2026-10-16",
+          "time": "11:25",
+          "kind": "shop",
+          "title": "BEAMS｜LACHIC 2F",
+          "place": "beams",
+          "duration": 30,
+          "note": "LACHIC 11:00開門；接KEEN同館逛。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-keen",
+          "date": "2026-10-16",
+          "time": "11:55",
+          "kind": "shop",
+          "title": "KEEN｜LACHIC 5F",
+          "place": "keen",
+          "duration": 35,
+          "note": "與BEAMS同館，已買齊可略過。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-lunch",
+          "date": "2026-10-16",
+          "time": "12:30",
+          "kind": "food",
+          "title": "午餐｜味噌豬排或熟鰻魚飯",
+          "place": null,
+          "duration": 60,
+          "note": "矢場町本店或中日大樓店擇一，依所在位置調整；不加鰻肝，湯品與醬料確認香菇。",
+          "fixed": false,
+          "options": [
+            "yaba",
+            "kanemitsu"
+          ]
+        },
+        {
+          "id": "d16-montbell",
+          "date": "2026-10-16",
+          "time": "13:40",
+          "kind": "shop",
+          "title": "Mont-bell｜中日大樓2F",
+          "place": "montbell",
+          "duration": 50,
+          "note": "購物按需要挑選；若已買齊，可留時間給其他商場。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-07",
+          "date": "2026-10-16",
+          "time": "14:45",
+          "kind": "shop",
+          "title": "UNIQLO｜服飾",
+          "place": "uniqlo",
+          "duration": 45,
+          "note": "SKYLE 5F，接同館3COINS。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-08",
+          "date": "2026-10-16",
+          "time": "15:30",
+          "kind": "shop",
+          "title": "3COINS｜生活雜貨",
+          "place": "3coins",
+          "duration": 30,
+          "note": "MELSA 4F，與UNIQLO一起逛。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-09",
+          "date": "2026-10-16",
+          "time": "16:10",
+          "kind": "shop",
+          "title": "無印良品｜Maruei Galleria",
+          "place": "muji",
+          "duration": 50,
+          "note": "Maruei Galleria 2F，依漏買清單挑選。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-snowpeak",
+          "date": "2026-10-16",
+          "time": "17:15",
+          "kind": "shop",
+          "title": "Snow Peak｜公園店・彈性補逛",
+          "place": "snowpeak",
+          "duration": 60,
+          "note": "或改逛PARCO、HAERA；17號與18號原商場安排保留。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d16-11",
+          "date": "2026-10-16",
+          "time": "18:30",
+          "kind": "food",
+          "title": "晚餐｜鰻魚或燒鳥",
+          "place": null,
+          "duration": 75,
+          "note": "榮區しげ較方便，名駅うな富士另留20–30分鐘交通、20:30最後點餐。只選熟雞肉或普通鰻魚飯，避開內臟、鰻肝與肝吸い；確認香菇配料。",
+          "fixed": false,
+          "options": [
+            "shige",
+            "unafuji"
+          ]
+        },
+        {
+          "id": "d16-12",
+          "date": "2026-10-16",
+          "time": "20:15",
+          "kind": "stay",
+          "title": "回飯店",
+          "place": "loisir",
+          "duration": 15,
+          "note": "晚餐後自由補逛或回飯店；隔天早上換房，取出當天用品。",
+          "fixed": false,
+          "options": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "title": "御殿、祭典，公園裡的戶外店",
+      "region": "名古屋",
+      "summary": "上午看名古屋城，下午留給祭典與公園。",
+      "weather": [
+        "nagoya"
+      ],
+      "notes": [
+        "名古屋城10/17免費開放；天守閣仍閉館。",
+        "今年沒有祭典遊行，公園舞台與攤位照官方節目。",
+        "Snow Peak最晚19:15入店，20:00關門。",
+        "上午退雙床房、晚上入住雙人房；下午未入住前不安排回客房休息。"
+      ],
+      "items": [
+        {
+          "id": "d17-room-checkout",
+          "date": "2026-10-17",
+          "time": "08:30",
+          "kind": "stay",
+          "title": "雙床房退房・寄放行李",
+          "place": "loisir",
+          "duration": 20,
+          "note": "取出當天用品；櫃台確認雙人房訂單與晚上入住方式。標準退房10:00，今天提早辦理。",
+          "fixed": false,
+          "options": [],
+          "status": "pending"
+        },
+        {
+          "id": "d17-01",
+          "date": "2026-10-17",
+          "time": "09:00",
+          "kind": "sight",
+          "title": "名古屋城・本丸御殿與庭園",
+          "place": "castle",
+          "duration": 150,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d17-02",
+          "date": "2026-10-17",
+          "time": "12:00",
+          "kind": "food",
+          "title": "午餐｜市區熟食",
+          "place": null,
+          "duration": 60,
+          "note": "矢場町豬排或榮的中日大樓鰻魚飯，留交通與候位緩衝。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "yaba",
+            "kanemitsu"
+          ]
+        },
+        {
+          "id": "d17-03",
+          "date": "2026-10-17",
+          "time": "13:15",
+          "kind": "shop",
+          "title": "HAERA｜Snow Peak・SMYTHSON・屋上廣場",
+          "place": "haera",
+          "duration": 75,
+          "note": "利用換房空檔逛2F Snow Peak、3F SMYTHSON與4F／5F屋上廣場；若購物延後，祭典停留可彈性縮短。原本13:15的客房休息改到晚間入住後。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d17-04",
+          "date": "2026-10-17",
+          "time": "14:30",
+          "kind": "sight",
+          "title": "久屋大通公園・名古屋祭",
+          "place": "hisaya",
+          "duration": 150,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d17-05",
+          "date": "2026-10-17",
+          "time": "17:15",
+          "kind": "shop",
+          "title": "Snow Peak｜公園店",
+          "place": "snowpeak",
+          "duration": 45,
+          "note": "位於RAYARD ZONE3，從祭典南側廣場留步行時間。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d17-room-checkin",
+          "date": "2026-10-17",
+          "time": "18:10",
+          "kind": "stay",
+          "title": "雙人房入住・領回行李",
+          "place": "loisir",
+          "duration": 25,
+          "note": "領新房卡，確認退房日10/18；若想提早休息，可向櫃台詢問能否提前入住。",
+          "fixed": false,
+          "options": [],
+          "status": "pending"
+        },
+        {
+          "id": "d17-06",
+          "date": "2026-10-17",
+          "time": "18:50",
+          "kind": "food",
+          "title": "晚餐｜雞翅馬拉松",
+          "place": null,
+          "duration": 75,
+          "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "mutsumi",
+            "furaibo"
+          ]
+        },
+        {
+          "id": "d17-07",
+          "date": "2026-10-17",
+          "time": "20:15",
+          "kind": "stay",
+          "title": "回房休息・整理行李・備份行程",
+          "place": "loisir",
+          "duration": 30,
+          "note": "",
+          "fixed": false,
+          "options": []
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "title": "最後採買，帶著雞翅記憶回家",
+      "region": "名古屋 → 台北",
+      "summary": "上午補漏買的東西，下午提早進機場。",
+      "weather": [
+        "nagoya"
+      ],
+      "notes": [
+        "ACCESS標準退房10:00，可向櫃台詢問寄放行李。",
+        "回程JX839：日本19:50 T1→台灣22:00 T1；登機口待確認。",
+        "原表KKDay接機資訊需補日期、上車點與聯絡電話。"
+      ],
+      "items": [
+        {
+          "id": "d18-01",
+          "date": "2026-10-18",
+          "time": "09:30",
+          "kind": "stay",
+          "title": "退房・寄放行李",
+          "place": "loisir",
+          "duration": 30,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d18-02",
+          "date": "2026-10-18",
+          "time": "10:00",
+          "kind": "shop",
+          "title": "PARCO｜矢場町逛街",
+          "place": "parco",
+          "duration": 60,
+          "note": "10:00開門後逛PARCO；取行李前仍可依時間補逛榮區其他店。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d18-extra-shopping",
+          "date": "2026-10-18",
+          "time": "11:10",
+          "kind": "shop",
+          "title": "榮區最後採買｜彈性保留",
+          "place": "muji",
+          "duration": 40,
+          "note": "依漏買清單選店；若想繼續逛PARCO，可跳過這一站。",
+          "fixed": false,
+          "options": [],
+          "status": "pending"
+        },
+        {
+          "id": "d18-03",
+          "date": "2026-10-18",
+          "time": "12:00",
+          "kind": "food",
+          "title": "午餐｜市區午餐",
+          "place": null,
+          "duration": 60,
+          "note": "依所在區域選豬排或鰻魚飯，留取行李與去機場的時間。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "yaba",
+            "unafuji"
+          ]
+        },
+        {
+          "id": "d18-04",
+          "date": "2026-10-18",
+          "time": "15:00",
+          "kind": "stay",
+          "title": "取行李・確認護照",
+          "place": "loisir",
+          "duration": 20,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d18-05",
+          "date": "2026-10-18",
+          "time": "15:30",
+          "kind": "transport",
+          "title": "榮 → 名鐵名古屋 → 中部機場",
+          "place": "ngo",
+          "duration": 90,
+          "note": "目標17:00抵達T1，依實際列車時間提早出發。",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d18-06",
+          "date": "2026-10-18",
+          "time": "17:00",
+          "kind": "transport",
+          "title": "報到・行李托運",
+          "place": "ngo",
+          "duration": 35,
+          "note": "規劃到場時間；航空公司報到截止需另核對。",
+          "fixed": true,
+          "options": []
+        },
+        {
+          "id": "d18-07",
+          "date": "2026-10-18",
+          "time": "17:40",
+          "kind": "food",
+          "title": "晚餐｜機場熟食",
+          "place": null,
+          "duration": 40,
+          "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。",
+          "fixed": false,
+          "options": [
+            "torisanwa",
+            "yabang"
+          ]
+        },
+        {
+          "id": "d18-08",
+          "date": "2026-10-18",
+          "time": "18:20",
+          "kind": "transport",
+          "title": "安檢・出境・前往登機口",
+          "place": "ngo",
+          "duration": 45,
+          "note": "",
+          "fixed": false,
+          "options": []
+        },
+        {
+          "id": "d18-09",
+          "date": "2026-10-18",
+          "time": "19:50",
+          "kind": "transport",
+          "title": "JX839｜NGO → TPE",
+          "place": "tpe",
+          "duration": 190,
+          "note": "日本19:50 T1起飛 → 台灣22:00 T1抵達；登機口依登機證。",
+          "fixed": true,
+          "options": []
+        },
+        {
+          "id": "d18-10",
+          "date": "2026-10-18",
+          "time": "23:00",
+          "kind": "transport",
+          "title": "台灣抵達・接送聯絡",
+          "place": "tpe",
+          "duration": 40,
+          "note": "此處23:00為日本時間，即台灣22:00。接送資料待補。",
+          "fixed": true,
+          "options": []
+        }
+      ]
+    }
+  ],
+  "flights": [
+    {
+      "id": "out",
+      "name": "去程 JX838",
+      "date": "2026-10-10",
+      "from_": "TPE 桃園",
+      "to": "NGO 中部",
+      "departure": "14:55（台灣）",
+      "arrival": "18:45（日本）",
+      "terminal": "出發 T1／抵達 T1",
+      "gate": "",
+      "source": "原試算表 行程表 C5"
+    },
+    {
+      "id": "back",
+      "name": "回程 JX839",
+      "date": "2026-10-18",
+      "from_": "NGO 中部",
+      "to": "TPE 桃園",
+      "departure": "19:50（日本）",
+      "arrival": "22:00（台灣）",
+      "terminal": "出發 T1／抵達 T1",
+      "gate": "",
+      "source": "原試算表 行程表 K5"
+    }
+  ],
+  "stays": [
+    {
+      "place": "comfort",
+      "nights": "10/10～10/11",
+      "platform": "Agoda",
+      "note": "連續兩晚需比對訂單。"
+    },
+    {
+      "place": "pegasus",
+      "nights": "10/12",
+      "platform": "Airbnb",
+      "note": "停車資訊已補：每房一個免費車位。完整地址、房號與入住方式依Airbnb訂單確認。"
+    },
+    {
+      "place": "syaku",
+      "nights": "10/13",
+      "platform": "官網",
+      "note": "一泊朝食；原表現場現金付款。"
+    },
+    {
+      "place": "hozanso",
+      "nights": "10/14",
+      "platform": "楽天トラベル",
+      "note": "一泊朝食；晚餐另安排。"
+    },
+    {
+      "place": "loisir",
+      "nights": "10/15～10/16（兩晚）",
+      "platform": "Trip.com",
+      "note": "雙床房；10/15入住，10/17早上辦理退房並詢問行李寄放。",
+      "room": "雙床房",
+      "checkout": "10/17",
+      "confirmed": true
+    },
+    {
+      "place": "loisir",
+      "nights": "10/17（一晚）",
+      "platform": "訂房平台未提供",
+      "note": "雙人房；10/17晚上入住，10/18退房。兩筆訂單是否可提前銜接入住，請向櫃台詢問；不預設同一房間。",
+      "room": "雙人房",
+      "checkout": "10/18",
+      "confirmed": true
+    }
+  ],
+  "emergency": [
+    {
+      "name": "救護車・消防",
+      "phone": "119",
+      "note": "日本境內緊急電話。",
+      "source": "https://www.japan.travel/en/plan/emergencies/"
+    },
+    {
+      "name": "警察",
+      "phone": "110",
+      "note": "日本境內緊急電話。",
+      "source": "https://www.japan.travel/en/plan/emergencies/"
+    },
+    {
+      "name": "Japan Visitor Hotline",
+      "phone": "050-3816-2787",
+      "note": "旅客協助24小時；日、英、中、韓語。",
+      "source": "https://www.japan.travel/en/plan/hotline/"
+    },
+    {
+      "name": "旅遊保險",
+      "phone": "",
+      "note": "保險公司、保單與海外急難電話待補。",
+      "source": "使用者保單"
+    },
+    {
+      "name": "KKDay／機場接送",
+      "phone": "",
+      "note": "訂單的聯絡方式與上車地點待補。",
+      "source": "使用者接送訂單"
+    }
+  ],
+  "checks": [
+    {
+      "id": "return",
+      "text": "核對10/15訂單還車期限；若延至10/16早上，先確認店家核准、費用、保險、ETC與過夜停車",
+      "done": false
+    },
+    {
+      "id": "hotels",
+      "text": "10/17上午換房退房，向櫃台確認行李寄放與晚上入住方式",
+      "done": false
+    },
+    {
+      "id": "dinner",
+      "text": "確認10/13、14奧飛驒晚餐供餐／旅館加餐",
+      "done": false
+    },
+    {
+      "id": "pegasus",
+      "text": "補Airbnb地址、停車位與入住方式",
+      "done": false
+    },
+    {
+      "id": "gate",
+      "text": "登機口依登機證更新",
+      "done": false
+    }
+  ],
+  "bags": [
+    {
+      "id": "bag-1",
+      "category": "重要",
+      "text": "護照",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-2",
+      "category": "重要",
+      "text": "駕照",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-3",
+      "category": "重要",
+      "text": "駕照日文譯本",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-4",
+      "category": "重要",
+      "text": "日幣50,000",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-5",
+      "category": "重要",
+      "text": "信用卡",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-6",
+      "category": "重要",
+      "text": "保險電話",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-7",
+      "category": "重要",
+      "text": "護照影本",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-8",
+      "category": "重要",
+      "text": "2吋大頭貼",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-9",
+      "category": "重要",
+      "text": "電子機票",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-10",
+      "category": "重要",
+      "text": "信用卡拍照",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-11",
+      "category": "重要",
+      "text": "訂房資料",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-12",
+      "category": "重要",
+      "text": "雪兒書",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-13",
+      "category": "重要",
+      "text": "護手霜",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-14",
+      "category": "重要",
+      "text": "口罩",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-15",
+      "category": "重要",
+      "text": "護唇膏",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-16",
+      "category": "重要",
+      "text": "空水瓶",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-17",
+      "category": "重要",
+      "text": "車用手機架",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-18",
+      "category": "重要",
+      "text": "右駕貼紙",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-19",
+      "category": "重要",
+      "text": "先下載好音樂",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-20",
+      "category": "3C用品",
+      "text": "手機掛繩*2",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-21",
+      "category": "3C用品",
+      "text": "esim卡*3",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-22",
+      "category": "3C用品",
+      "text": "手機旅充*3",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-23",
+      "category": "3C用品",
+      "text": "自拍棒",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-24",
+      "category": "3C用品",
+      "text": "耳機*2",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-25",
+      "category": "3C用品",
+      "text": "行動電源*2",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-26",
+      "category": "3C用品",
+      "text": "腳架",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-27",
+      "category": "3C用品",
+      "text": "相機",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-28",
+      "category": "3C用品",
+      "text": "鏡頭*3",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-29",
+      "category": "3C用品",
+      "text": "相機充電",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-30",
+      "category": "3C用品",
+      "text": "延長線（220V）",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-31",
+      "category": "3C用品",
+      "text": "隨身硬碟",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-32",
+      "category": "3C用品",
+      "text": "相機電池",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-33",
+      "category": "3C用品",
+      "text": "相機清潔",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-34",
+      "category": "3C用品",
+      "text": "記憶卡",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-35",
+      "category": "3C用品",
+      "text": "筆電",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-36",
+      "category": "3C用品",
+      "text": "筆電充電線",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-37",
+      "category": "化妝品",
+      "text": "卸妝棉",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-38",
+      "category": "化妝品",
+      "text": "洗臉",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-39",
+      "category": "化妝品",
+      "text": "保養品",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-40",
+      "category": "化妝品",
+      "text": "梳子",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-41",
+      "category": "化妝品",
+      "text": "髮油",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-42",
+      "category": "化妝品",
+      "text": "吹風機",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-43",
+      "category": "化妝品",
+      "text": "洗、潤髮",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-44",
+      "category": "化妝品",
+      "text": "髮圈",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-45",
+      "category": "化妝品",
+      "text": "化妝品",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-46",
+      "category": "日常用品",
+      "text": "鎖頭",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-47",
+      "category": "日常用品",
+      "text": "牙線",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-48",
+      "category": "日常用品",
+      "text": "指甲剪",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-49",
+      "category": "日常用品",
+      "text": "衛生棉",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-50",
+      "category": "日常用品",
+      "text": "耳塞",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-51",
+      "category": "日常用品",
+      "text": "環保餐具",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-52",
+      "category": "日常用品",
+      "text": "棉花棒",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-53",
+      "category": "日常用品",
+      "text": "隱形眼鏡",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-54",
+      "category": "日常用品",
+      "text": "眼鏡",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-55",
+      "category": "日常用品",
+      "text": "陽傘*1",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-56",
+      "category": "藥品",
+      "text": "暈車藥",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-57",
+      "category": "藥品",
+      "text": "止痛藥",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-58",
+      "category": "藥品",
+      "text": "胃藥",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-59",
+      "category": "藥品",
+      "text": "防水OK蹦",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-60",
+      "category": "藥品",
+      "text": "鎮定劑",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-61",
+      "category": "藥品",
+      "text": "防蚊液",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-62",
+      "category": "藥品",
+      "text": "皮膚藥膏",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-63",
+      "category": "藥品",
+      "text": "B12",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-64",
+      "category": "藥品",
+      "text": "紅景天",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-65",
+      "category": "藥品",
+      "text": "葉黃素",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-66",
+      "category": "衣物",
+      "text": "拖鞋Crocs",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-67",
+      "category": "衣物",
+      "text": "鞋子一雙",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-68",
+      "category": "衣物",
+      "text": "襪子*6",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-69",
+      "category": "衣物",
+      "text": "內衣*6",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-70",
+      "category": "衣物",
+      "text": "免洗內褲*26",
+      "done": false,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-71",
+      "category": "衣物",
+      "text": "睡衣",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-72",
+      "category": "衣物",
+      "text": "帽子",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-73",
+      "category": "衣物",
+      "text": "墨鏡*2",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-74",
+      "category": "衣物",
+      "text": "外衣搭配",
+      "done": true,
+      "source": "原表行李清單"
+    },
+    {
+      "id": "bag-75",
+      "category": "山區補充",
+      "text": "防風防水外套",
+      "done": false,
+      "source": "本輪補充"
+    },
+    {
+      "id": "bag-76",
+      "category": "山區補充",
+      "text": "保暖中層",
+      "done": false,
+      "source": "本輪補充"
+    },
+    {
+      "id": "bag-77",
+      "category": "山區補充",
+      "text": "雨具",
+      "done": false,
+      "source": "本輪補充"
+    },
+    {
+      "id": "bag-78",
+      "category": "山區補充",
+      "text": "健行小背包",
+      "done": false,
+      "source": "本輪補充"
+    }
+  ],
+  "previousDefaults": {
+    "d10-01": {
+      "date": "2026-10-10",
+      "time": "13:00",
+      "duration": 60,
+      "note": "台灣12:00到T1為規劃目標，非機場接送訂單。"
+    },
+    "d10-02": {
+      "date": "2026-10-10",
+      "time": "14:00",
+      "duration": 40,
+      "note": "此餐台灣當地13:00。報到後依安檢與登機安排調整。"
+    },
+    "d10-03": {
+      "date": "2026-10-10",
+      "time": "15:55",
+      "duration": 170,
+      "note": "台灣起飛14:55 T1 → 日本抵達18:45 T1；登機口待確認。"
+    },
+    "d10-04": {
+      "date": "2026-10-10",
+      "time": "18:45",
+      "duration": 75,
+      "note": ""
+    },
+    "d10-05": {
+      "date": "2026-10-10",
+      "time": "20:00",
+      "duration": 60,
+      "note": "μ-SKY需另購特別車輛券；依實際到站班次選車，不寫死班次。"
+    },
+    "d10-06": {
+      "date": "2026-10-10",
+      "time": "21:00",
+      "duration": 20,
+      "note": ""
+    },
+    "d10-07": {
+      "date": "2026-10-10",
+      "time": "21:20",
+      "duration": 60,
+      "note": "Fumiya為已選主餐廳；若延誤先確認最後點餐。"
+    },
+    "d11-01": {
+      "date": "2026-10-11",
+      "time": "09:00",
+      "duration": 90,
+      "note": ""
+    },
+    "d11-02": {
+      "date": "2026-10-11",
+      "time": "11:00",
+      "duration": 75,
+      "note": "蓬萊軒需預留候位；太久改豬排，不壓縮下午。"
+    },
+    "d11-03": {
+      "date": "2026-10-11",
+      "time": "13:00",
+      "duration": 165,
+      "note": ""
+    },
+    "d11-04": {
+      "date": "2026-10-11",
+      "time": "15:45",
+      "duration": 15,
+      "note": ""
+    },
+    "d11-05": {
+      "date": "2026-10-11",
+      "time": "16:00",
+      "duration": 60,
+      "note": ""
+    },
+    "d11-06": {
+      "date": "2026-10-11",
+      "time": "17:10",
+      "duration": 35,
+      "note": ""
+    },
+    "d11-07": {
+      "date": "2026-10-11",
+      "time": "18:00",
+      "duration": 45,
+      "note": ""
+    },
+    "d11-08": {
+      "date": "2026-10-11",
+      "time": "19:00",
+      "duration": 75,
+      "note": ""
+    },
+    "d11-09": {
+      "date": "2026-10-11",
+      "time": "20:30",
+      "duration": 20,
+      "note": ""
+    },
+    "d12-01": {
+      "date": "2026-10-12",
+      "time": "09:20",
+      "duration": 40,
+      "note": "名古屋站到店步行約10分鐘；行李多留額外時間。"
+    },
+    "d12-02": {
+      "date": "2026-10-12",
+      "time": "10:00",
+      "duration": 30,
+      "note": "確認ETC、保險、油種與還車時間；座位4人、行李空間須現場確認。"
+    },
+    "d12-03": {
+      "date": "2026-10-12",
+      "time": "10:30",
+      "duration": 170,
+      "note": "車程為規劃估算；假日塞車依當天導航，不等於即時交通。"
+    },
+    "d12-04": {
+      "date": "2026-10-12",
+      "time": "13:20",
+      "duration": 40,
+      "note": "乃むら在村內；若改Arai，先在IC附近吃，再到村落停車場，且需確認14:00前能用餐。"
+    },
+    "d12-05": {
+      "date": "2026-10-12",
+      "time": "14:10",
+      "duration": 110,
+      "note": "含回程走回停車場；展望點依時間保留彈性。"
+    },
+    "d12-06": {
+      "date": "2026-10-12",
+      "time": "16:00",
+      "duration": 80,
+      "note": ""
+    },
+    "d12-07": {
+      "date": "2026-10-12",
+      "time": "17:20",
+      "duration": 25,
+      "note": "地址與停車須補；先開Airbnb確認。"
+    },
+    "d12-08": {
+      "date": "2026-10-12",
+      "time": "18:00",
+      "duration": 60,
+      "note": "ちとせ最後點餐19:00，太晚抵達改かつ庵。"
+    },
+    "d13-01": {
+      "date": "2026-10-13",
+      "time": "07:30",
+      "duration": 60,
+      "note": ""
+    },
+    "d13-02": {
+      "date": "2026-10-13",
+      "time": "08:40",
+      "duration": 60,
+      "note": ""
+    },
+    "d13-03": {
+      "date": "2026-10-13",
+      "time": "10:00",
+      "duration": 30,
+      "note": ""
+    },
+    "d13-04": {
+      "date": "2026-10-13",
+      "time": "10:30",
+      "duration": 105,
+      "note": "高山至新穗高抓1.5～2小時。導航到觀光停車場。"
+    },
+    "d13-05": {
+      "date": "2026-10-13",
+      "time": "12:15",
+      "duration": 40,
+      "note": "笠ヶ岳14:00關門；麵包為輕食，份量不足可搭預先買好的補給。"
+    },
+    "d13-06": {
+      "date": "2026-10-13",
+      "time": "13:00",
+      "duration": 100,
+      "note": ""
+    },
+    "d13-07": {
+      "date": "2026-10-13",
+      "time": "14:40",
+      "duration": 25,
+      "note": ""
+    },
+    "d13-08": {
+      "date": "2026-10-13",
+      "time": "15:05",
+      "duration": 20,
+      "note": "依實際班次與排隊調整。"
+    },
+    "d13-09": {
+      "date": "2026-10-13",
+      "time": "15:25",
+      "duration": 20,
+      "note": ""
+    },
+    "d13-10": {
+      "date": "2026-10-13",
+      "time": "15:45",
+      "duration": 20,
+      "note": ""
+    },
+    "d13-11": {
+      "date": "2026-10-13",
+      "time": "16:10",
+      "duration": 50,
+      "note": "含取車、短程移動與拍照；橋上不臨停。"
+    },
+    "d13-12": {
+      "date": "2026-10-13",
+      "time": "17:10",
+      "duration": 45,
+      "note": ""
+    },
+    "d13-13": {
+      "date": "2026-10-13",
+      "time": "18:00",
+      "duration": 60,
+      "note": "兩家均須電話確認晚間供餐；可問旅館加餐，確認後再變更。"
+    },
+    "d14-01": {
+      "date": "2026-10-14",
+      "time": "07:30",
+      "duration": 40,
+      "note": ""
+    },
+    "d14-02": {
+      "date": "2026-10-14",
+      "time": "08:10",
+      "duration": 40,
+      "note": ""
+    },
+    "d14-03": {
+      "date": "2026-10-14",
+      "time": "08:50",
+      "duration": 26,
+      "note": "2026班表08:50→09:16；自由座，目標班次非預約。"
+    },
+    "d14-04": {
+      "date": "2026-10-14",
+      "time": "09:20",
+      "duration": 130,
+      "note": "含沿途停留，純步行約1.25～1.5小時。"
+    },
+    "d14-05": {
+      "date": "2026-10-14",
+      "time": "11:30",
+      "duration": 15,
+      "note": "4公里版：河童橋休息→總站；10公里版：岳澤濕原→明神池→河童橋。"
+    },
+    "d14-06": {
+      "date": "2026-10-14",
+      "time": "11:45",
+      "duration": 50,
+      "note": "走明神可先用餐或帶補給；不把兩版的午餐重複排入。"
+    },
+    "d14-07": {
+      "date": "2026-10-14",
+      "time": "12:35",
+      "duration": 125,
+      "note": "選4公里版時跳過明神，改河童橋周邊休息。"
+    },
+    "d14-08": {
+      "date": "2026-10-14",
+      "time": "15:00",
+      "duration": 40,
+      "note": "目標15:00或15:30；回程每小時00／30分。"
+    },
+    "d14-09": {
+      "date": "2026-10-14",
+      "time": "16:30",
+      "duration": 45,
+      "note": ""
+    },
+    "d14-10": {
+      "date": "2026-10-14",
+      "time": "18:00",
+      "duration": 60,
+      "note": "只含早餐；需在上高地出發前確認晚間供餐。"
+    },
+    "d15-01": {
+      "date": "2026-10-15",
+      "time": "08:30",
+      "duration": 180,
+      "note": ""
+    },
+    "d15-02": {
+      "date": "2026-10-15",
+      "time": "11:30",
+      "duration": 60,
+      "note": "翔太週四午餐11:00–13:45；抵達晚就切換備案。"
+    },
+    "d15-03": {
+      "date": "2026-10-15",
+      "time": "12:30",
+      "duration": 75,
+      "note": ""
+    },
+    "d15-04": {
+      "date": "2026-10-15",
+      "time": "13:45",
+      "duration": 180,
+      "note": "車程含緩衝估算，依路況提前離開。"
+    },
+    "d15-05": {
+      "date": "2026-10-15",
+      "time": "16:45",
+      "duration": 45,
+      "note": "依租約確認滿油與發票；加油站用地圖當日查詢，不預填假電話。"
+    },
+    "d15-06": {
+      "date": "2026-10-15",
+      "time": "17:30",
+      "duration": 30,
+      "note": "原店還車；19:00為原表期限待訂單確認，門市19:00關門。"
+    },
+    "d15-07": {
+      "date": "2026-10-15",
+      "time": "18:30",
+      "duration": 25,
+      "note": ""
+    },
+    "d15-08": {
+      "date": "2026-10-15",
+      "time": "19:15",
+      "duration": 75,
+      "note": ""
+    },
+    "d16-01": {
+      "date": "2026-10-16",
+      "time": "08:15",
+      "duration": 60,
+      "note": "依出發當日班次搭乘，未固定特定列車。"
+    },
+    "d16-02": {
+      "date": "2026-10-16",
+      "time": "09:30",
+      "duration": 90,
+      "note": ""
+    },
+    "d16-03": {
+      "date": "2026-10-16",
+      "time": "11:00",
+      "duration": 60,
+      "note": ""
+    },
+    "d16-04": {
+      "date": "2026-10-16",
+      "time": "12:00",
+      "duration": 60,
+      "note": ""
+    },
+    "d16-05": {
+      "date": "2026-10-16",
+      "time": "13:00",
+      "duration": 90,
+      "note": "避開牛肉串、牛握壽司與生魚片。"
+    },
+    "d16-06": {
+      "date": "2026-10-16",
+      "time": "14:30",
+      "duration": 75,
+      "note": ""
+    },
+    "d16-07": {
+      "date": "2026-10-16",
+      "time": "16:00",
+      "duration": 45,
+      "note": ""
+    },
+    "d16-08": {
+      "date": "2026-10-16",
+      "time": "16:45",
+      "duration": 30,
+      "note": ""
+    },
+    "d16-09": {
+      "date": "2026-10-16",
+      "time": "17:25",
+      "duration": 45,
+      "note": ""
+    },
+    "d16-10": {
+      "date": "2026-10-16",
+      "time": "18:20",
+      "duration": 40,
+      "note": ""
+    },
+    "d16-11": {
+      "date": "2026-10-16",
+      "time": "19:30",
+      "duration": 75,
+      "note": "BEAMS後若吃名駅店，留約30分鐘搭車與步行；選榮區しげ則可就近用餐。"
+    },
+    "d16-12": {
+      "date": "2026-10-16",
+      "time": "21:15",
+      "duration": 15,
+      "note": ""
+    },
+    "d17-01": {
+      "date": "2026-10-17",
+      "time": "09:00",
+      "duration": 150,
+      "note": ""
+    },
+    "d17-02": {
+      "date": "2026-10-17",
+      "time": "12:00",
+      "duration": 60,
+      "note": "矢場町豬排或榮的中日大樓鰻魚飯，留交通與候位緩衝。"
+    },
+    "d17-03": {
+      "date": "2026-10-17",
+      "time": "13:15",
+      "duration": 60,
+      "note": ""
+    },
+    "d17-04": {
+      "date": "2026-10-17",
+      "time": "14:30",
+      "duration": 150,
+      "note": ""
+    },
+    "d17-05": {
+      "date": "2026-10-17",
+      "time": "17:15",
+      "duration": 45,
+      "note": "位於RAYARD ZONE3，從祭典南側廣場留步行時間。"
+    },
+    "d17-06": {
+      "date": "2026-10-17",
+      "time": "18:30",
+      "duration": 75,
+      "note": ""
+    },
+    "d17-07": {
+      "date": "2026-10-17",
+      "time": "20:00",
+      "duration": 30,
+      "note": ""
+    },
+    "d18-01": {
+      "date": "2026-10-18",
+      "time": "09:30",
+      "duration": 30,
+      "note": ""
+    },
+    "d18-02": {
+      "date": "2026-10-18",
+      "time": "10:00",
+      "duration": 110,
+      "note": "依前幾天漏買的清單選店，不增加遠郊景點。"
+    },
+    "d18-03": {
+      "date": "2026-10-18",
+      "time": "12:00",
+      "duration": 60,
+      "note": "依所在區域選豬排或鰻魚飯，留取行李與去機場的時間。"
+    },
+    "d18-04": {
+      "date": "2026-10-18",
+      "time": "15:00",
+      "duration": 20,
+      "note": ""
+    },
+    "d18-05": {
+      "date": "2026-10-18",
+      "time": "15:30",
+      "duration": 90,
+      "note": "目標17:00抵達T1，依實際列車時間提早出發。"
+    },
+    "d18-06": {
+      "date": "2026-10-18",
+      "time": "17:00",
+      "duration": 35,
+      "note": "規劃到場時間；航空公司報到截止需另核對。"
+    },
+    "d18-07": {
+      "date": "2026-10-18",
+      "time": "17:40",
+      "duration": 40,
+      "note": ""
+    },
+    "d18-08": {
+      "date": "2026-10-18",
+      "time": "18:20",
+      "duration": 45,
+      "note": ""
+    },
+    "d18-09": {
+      "date": "2026-10-18",
+      "time": "19:50",
+      "duration": 190,
+      "note": "日本19:50 T1起飛 → 台灣22:00 T1抵達；登機口依登機證。"
+    },
+    "d18-10": {
+      "date": "2026-10-18",
+      "time": "23:00",
+      "duration": 40,
+      "note": "此處23:00為日本時間，即台灣22:00。接送資料待補。"
+    }
+  },
+  "walkingRoute": {
+    "title": "上高地・沿梓川慢慢走",
+    "image": "./kamikochi-route.svg",
+    "date": "2026-10-14",
+    "segments": [
+      {
+        "start": "②田代池",
+        "end": "③田代橋",
+        "minutes": 18,
+        "distance": "1.2 km"
+      },
+      {
+        "start": "③田代橋",
+        "end": "⑤河童橋",
+        "minutes": 25,
+        "distance": "1.5 km"
+      },
+      {
+        "start": "⑤河童橋",
+        "end": "⑦岳澤濕原",
+        "minutes": 15
+      },
+      {
+        "start": "⑦岳澤濕原",
+        "end": "⑨奧宮・池區入口",
+        "minutes": 45
+      },
+      {
+        "start": "⑨池區入口",
+        "end": "⑩一之池",
+        "minutes": 3,
+        "minutesMax": 5,
+        "estimate": true
+      },
+      {
+        "start": "⑩一之池",
+        "end": "⑨池區出口",
+        "minutes": 3,
+        "minutesMax": 5,
+        "estimate": true
+      },
+      {
+        "start": "⑨池區出口",
+        "end": "⑧明神橋左岸端（含過橋）",
+        "minutes": 5,
+        "minutesMax": 10,
+        "estimate": true
+      },
+      {
+        "start": "⑧明神橋左岸端",
+        "end": "⑪巴士總站（經明神・小梨平）",
+        "minutes": 55,
+        "minutesMax": 60,
+        "estimate": true
+      }
+    ],
+    "total": null,
+    "approach": 20,
+    "links": [
+      {
+        "label": "平湯↔上高地｜你提供的時刻表",
+        "url": "https://www.alpico.co.jp/tc/timetable/kamikochi/r-hirayuonsen-kamikochi/"
+      },
+      {
+        "label": "濃飛巴士｜2026日文時刻表",
+        "url": "https://www.nouhibus.co.jp/route_bus/kamikochi-line/"
+      },
+      {
+        "label": "上高地官方步行路線",
+        "url": "https://www.kamikochi.or.jp/enjoy/walking/"
+      },
+      {
+        "label": "大正池→田代池｜官方約20分鐘",
+        "url": "https://www.kamikochi.or.jp/learn/spots/621/"
+      },
+      {
+        "label": "岳澤濕原觀景資訊",
+        "url": "https://www.kamikochi.or.jp/learn/spots/1339/"
+      },
+      {
+        "label": "明神・官方總站步行55分的終點",
+        "url": "https://www.kamikochi.or.jp/learn/spots/1359/"
+      }
+    ],
+    "imageReady": true,
+    "interactiveMap": "./kamikochi-walk-map.html",
+    "mapNote": "參考你提供的散策圖重新繪製；原1–10號保留，2號補標田代池，4號改為「梓川觀景點」，另加11號巴士總站。圖示不按比例。",
+    "totalRange": [
+      189,
+      208
+    ],
+    "returnNote": "⑧→⑪從明神橋過橋後的梓川左岸端起算；不從⑩一之池起算。⑩→⑨約3–5分、⑨→⑧約5–10分，池內拍照與排隊另計。",
+    "returnBus": {
+      "date": "2026-10-14",
+      "checked": "2026-10-10",
+      "source": "https://www.nouhibus.co.jp/route_bus/kamikochi-line/",
+      "depart": "17:00",
+      "hirayu": "17:25",
+      "parking": "17:30",
+      "lastDepart": "17:30",
+      "lastHirayu": "17:55",
+      "lastParking": "18:00",
+      "walkRange": [
+        126,
+        140
+      ],
+      "pondStay": 30,
+      "queue": 30,
+      "prepare": 10,
+      "leaveKappa": "13:40",
+      "arriveKappa": "13:30",
+      "timeline": [
+        {
+          "time": "13:30",
+          "label": "抵達⑤河童橋；午餐已結束"
+        },
+        {
+          "time": "13:40",
+          "label": "出發，沿右岸經⑦岳澤濕原"
+        },
+        {
+          "time": "14:40",
+          "label": "抵達⑨奧宮／池區入口"
+        },
+        {
+          "time": "14:45",
+          "label": "到⑩一之池"
+        },
+        {
+          "time": "15:15",
+          "label": "離開⑩；含購票、參拜與拍照共30分"
+        },
+        {
+          "time": "15:20",
+          "label": "退出⑨池區"
+        },
+        {
+          "time": "15:30",
+          "label": "過⑧明神橋到左岸端"
+        },
+        {
+          "time": "16:30",
+          "label": "抵達⑪總站，排隊候車"
+        },
+        {
+          "time": "17:00",
+          "label": "搭倒數第二班回程巴士"
+        }
+      ],
+      "condition": "午餐在抵達河童橋前吃完；沿途不另安排長時間停留。步行為規劃估算，雨天、慢行或停留較久需提早。",
+      "boardingNote": "全車自由席，依排隊順序上車；候車30分是本行程的預留，不能保證搭上指定班次。出發當天再查運行公告。",
+      "stayNote": "17:00回程將17:30才到停車場，原16:30入住須順延；確認寶山荘別館最晚入住時間，並留意18:00晚餐的交通與供餐。"
+    }
+  },
+  "phrases": [
+    {
+      "id": "parking",
+      "group": "問路",
+      "zh": "停車場在哪裡？",
+      "ja": "駐車場はどこですか。",
+      "audio": "./audio/parking.m4a"
+    },
+    {
+      "id": "toilet",
+      "group": "問路",
+      "zh": "廁所在哪裡？",
+      "ja": "トイレはどこですか。",
+      "audio": "./audio/toilet.m4a"
+    },
+    {
+      "id": "diet",
+      "group": "點餐",
+      "zh": "我不吃牛肉、羊肉、內臟、生魚片。",
+      "ja": "牛肉、羊肉、内臓、刺身は食べられません。",
+      "audio": "./audio/diet.m4a"
+    },
+    {
+      "id": "shiitake-question",
+      "group": "點餐",
+      "zh": "請問這道料理有香菇嗎？",
+      "ja": "この料理にしいたけは入っていますか。",
+      "audio": "./audio/shiitake-question.m4a"
+    },
+    {
+      "id": "shiitake-remove",
+      "group": "點餐",
+      "zh": "我不能吃香菇，可以幫我拿掉香菇嗎？",
+      "ja": "しいたけは食べられません。しいたけを抜いていただけますか。",
+      "audio": "./audio/shiitake-remove.m4a"
+    },
+    {
+      "id": "shiitake-change",
+      "group": "點餐",
+      "zh": "如果不能拿掉香菇，可以換別的餐點嗎？",
+      "ja": "しいたけを抜けない場合は、別の料理に変更できますか。",
+      "audio": "./audio/shiitake-change.m4a"
+    },
+    {
+      "id": "price",
+      "group": "購物",
+      "zh": "這個多少錢？",
+      "ja": "これはいくらですか。",
+      "audio": "./audio/price.m4a"
+    }
+  ],
+  "retiredItemIds": [
+    "d10-02",
+    "d12-04",
+    "d16-01",
+    "d16-06"
+  ],
+  "revisionDefaults": {
+    "d14-07": {
+      "date": "2026-10-14",
+      "time": "12:35",
+      "duration": 145,
+      "note": "純步行15＋45＋55＝115分，另留約30分停留。岳澤濕原看六百山，往明神途中留意穗高山景。先參觀明神池，再過明神橋，沿左岸回總站；預計15:00回到總站，目標15:30巴士。輕鬆版跳過此段。"
+    },
+    "d14-08": {
+      "date": "2026-10-14",
+      "time": "15:30",
+      "duration": 40,
+      "note": "延伸版以15:30班次為目標，請提早15–20分鐘排隊；每小時00／30分發車，最終班次與臨時變更查看2026官網。輕鬆版可提早回程。"
+    },
+    "d14-09": {
+      "date": "2026-10-14",
+      "time": "16:30",
+      "duration": 45,
+      "note": ""
+    }
+  },
+  "routePreviousDefaults": {
+    "d10-01": {
+      "date": "2026-10-10",
+      "time": "13:00",
+      "duration": 60,
+      "note": "台灣12:00到T1為規劃目標，非機場接送訂單。"
+    },
+    "d10-03": {
+      "date": "2026-10-10",
+      "time": "15:55",
+      "duration": 170,
+      "note": "台灣起飛14:55 T1 → 日本抵達18:45 T1；登機口待確認。"
+    },
+    "d10-04": {
+      "date": "2026-10-10",
+      "time": "18:45",
+      "duration": 75,
+      "note": ""
+    },
+    "d10-05": {
+      "date": "2026-10-10",
+      "time": "20:00",
+      "duration": 60,
+      "note": "μ-SKY需另購特別車輛券；依實際到站班次選車，不寫死班次。"
+    },
+    "d10-06": {
+      "date": "2026-10-10",
+      "time": "21:00",
+      "duration": 20,
+      "note": ""
+    },
+    "d10-07": {
+      "date": "2026-10-10",
+      "time": "21:20",
+      "duration": 60,
+      "note": "Fumiya為已選主餐廳；若延誤先確認最後點餐。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d11-01": {
+      "date": "2026-10-11",
+      "time": "09:00",
+      "duration": 90,
+      "note": ""
+    },
+    "d11-02": {
+      "date": "2026-10-11",
+      "time": "11:00",
+      "duration": 75,
+      "note": "蓬萊軒需預留候位；太久改豬排，不壓縮下午。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d11-03": {
+      "date": "2026-10-11",
+      "time": "13:00",
+      "duration": 165,
+      "note": ""
+    },
+    "d11-04": {
+      "date": "2026-10-11",
+      "time": "15:45",
+      "duration": 15,
+      "note": ""
+    },
+    "d11-05": {
+      "date": "2026-10-11",
+      "time": "16:00",
+      "duration": 60,
+      "note": ""
+    },
+    "d11-06": {
+      "date": "2026-10-11",
+      "time": "17:10",
+      "duration": 35,
+      "note": ""
+    },
+    "d11-07": {
+      "date": "2026-10-11",
+      "time": "18:00",
+      "duration": 45,
+      "note": ""
+    },
+    "d11-08": {
+      "date": "2026-10-11",
+      "time": "19:00",
+      "duration": 75,
+      "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d11-09": {
+      "date": "2026-10-11",
+      "time": "20:30",
+      "duration": 20,
+      "note": ""
+    },
+    "d12-01": {
+      "date": "2026-10-12",
+      "time": "09:20",
+      "duration": 40,
+      "note": "名古屋站到店步行約10分鐘；行李多留額外時間。"
+    },
+    "d12-02": {
+      "date": "2026-10-12",
+      "time": "10:00",
+      "duration": 30,
+      "note": "確認ETC、保險、油種與還車時間；座位4人、行李空間須現場確認。拍攝整車照片，清楚顯示廠牌與車牌，供你傳給今晚Airbnb房東辨識車輛。"
+    },
+    "d12-03": {
+      "date": "2026-10-12",
+      "time": "10:30",
+      "duration": 170,
+      "note": "車程為規劃估算；假日塞車依當天導航，不等於即時交通。"
+    },
+    "d12-04": {
+      "date": "2026-10-12",
+      "time": "13:20",
+      "duration": 40,
+      "note": "乃むら在村內；若改Arai，先在IC附近吃，再到村落停車場，且需確認14:00前能用餐。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d12-05": {
+      "date": "2026-10-12",
+      "time": "14:10",
+      "duration": 110,
+      "note": "含回程走回停車場；展望點依時間保留彈性。"
+    },
+    "d12-06": {
+      "date": "2026-10-12",
+      "time": "16:00",
+      "duration": 80,
+      "note": ""
+    },
+    "d12-07": {
+      "date": "2026-10-12",
+      "time": "17:20",
+      "duration": 25,
+      "note": "先查看下方停車說明，停好車再入住；住宿完整地址、房號與入住方式依Airbnb訂單確認。"
+    },
+    "d12-08": {
+      "date": "2026-10-12",
+      "time": "18:00",
+      "duration": 60,
+      "note": "ちとせ最後點餐19:00，太晚抵達改かつ庵。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d13-01": {
+      "date": "2026-10-13",
+      "time": "07:30",
+      "duration": 60,
+      "note": ""
+    },
+    "d13-02": {
+      "date": "2026-10-13",
+      "time": "08:40",
+      "duration": 60,
+      "note": ""
+    },
+    "d13-03": {
+      "date": "2026-10-13",
+      "time": "10:00",
+      "duration": 30,
+      "note": ""
+    },
+    "d13-04": {
+      "date": "2026-10-13",
+      "time": "10:30",
+      "duration": 105,
+      "note": "高山至新穗高抓1.5～2小時。導航到觀光停車場。"
+    },
+    "d13-05": {
+      "date": "2026-10-13",
+      "time": "12:15",
+      "duration": 40,
+      "note": "笠ヶ岳14:00關門；麵包為輕食，份量不足可搭預先買好的補給。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d13-06": {
+      "date": "2026-10-13",
+      "time": "13:00",
+      "duration": 100,
+      "note": ""
+    },
+    "d13-07": {
+      "date": "2026-10-13",
+      "time": "14:40",
+      "duration": 25,
+      "note": ""
+    },
+    "d13-08": {
+      "date": "2026-10-13",
+      "time": "15:05",
+      "duration": 20,
+      "note": "依實際班次與排隊調整。"
+    },
+    "d13-09": {
+      "date": "2026-10-13",
+      "time": "15:25",
+      "duration": 20,
+      "note": ""
+    },
+    "d13-10": {
+      "date": "2026-10-13",
+      "time": "15:45",
+      "duration": 20,
+      "note": ""
+    },
+    "d13-11": {
+      "date": "2026-10-13",
+      "time": "16:10",
+      "duration": 50,
+      "note": "含取車、短程移動與拍照；橋上不臨停。"
+    },
+    "d13-12": {
+      "date": "2026-10-13",
+      "time": "17:10",
+      "duration": 45,
+      "note": ""
+    },
+    "d13-13": {
+      "date": "2026-10-13",
+      "time": "18:00",
+      "duration": 60,
+      "note": "兩家均須電話確認晚間供餐；可問旅館加餐，確認後再變更。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d14-01": {
+      "date": "2026-10-14",
+      "time": "07:30",
+      "duration": 40,
+      "note": ""
+    },
+    "d14-02": {
+      "date": "2026-10-14",
+      "time": "08:10",
+      "duration": 40,
+      "note": ""
+    },
+    "d14-03": {
+      "date": "2026-10-14",
+      "time": "08:50",
+      "duration": 26,
+      "note": "2026班表08:50→09:16；自由座，目標班次非預約。"
+    },
+    "d14-04": {
+      "date": "2026-10-14",
+      "time": "09:20",
+      "duration": 130,
+      "note": "大正池→田代池約20分（官方目安）；田代池→田代橋18分／1.2km，田代橋→河童橋25分／1.5km（你的估算）。130分時段含停留拍照。"
+    },
+    "d14-05": {
+      "date": "2026-10-14",
+      "time": "11:30",
+      "duration": 15,
+      "note": "輕鬆版在河童橋休息後回總站；延伸版經岳澤濕原到明神池，再過明神橋走梓川左岸回總站。距離為整體概估。"
+    },
+    "d14-06": {
+      "date": "2026-10-14",
+      "time": "11:45",
+      "duration": 50,
+      "note": "走明神可先用餐或帶補給；不把兩版的午餐重複排入。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d14-07": {
+      "date": "2026-10-14",
+      "time": "12:35",
+      "duration": 145,
+      "note": "⑤→⑦15分、⑦→⑨45分；⑨↔⑩各估3–5分，⑨→⑧含過橋估5–10分，⑧左岸端→⑪估55–60分。從12:35出發，含池內15–30分約14:55–15:25回站，15:30班次須留排隊時間；145分時段僅較快情況足夠。17:00為較晚備案，建議13:30前到⑤、13:40前出發，16:30到⑪候車；午餐先吃完。輕鬆版跳過此段。"
+    },
+    "d14-08": {
+      "date": "2026-10-14",
+      "time": "15:30",
+      "duration": 40,
+      "note": "原目標15:30保留，提早15–20分排隊。較晚備案：倒數第二班17:00→平湯17:25→あかんだな17:30，建議16:30到總站候車。末班17:30→平湯17:55→停車場18:00。全車自由席，依排隊順序上車，候車緩衝不能保證搭上指定班次；當日查運行公告。"
+    },
+    "d14-09": {
+      "date": "2026-10-14",
+      "time": "16:30",
+      "duration": 45,
+      "note": "17:00回程將17:30才到停車場，原16:30入住須順延；確認寶山荘別館最晚入住時間，並留意18:00晚餐的交通與供餐。"
+    },
+    "d14-10": {
+      "date": "2026-10-14",
+      "time": "18:00",
+      "duration": 60,
+      "note": "只含早餐；需在上高地出發前確認晚間供餐。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d15-01": {
+      "date": "2026-10-15",
+      "time": "08:30",
+      "duration": 180,
+      "note": ""
+    },
+    "d15-02": {
+      "date": "2026-10-15",
+      "time": "11:30",
+      "duration": 60,
+      "note": "翔太週四午餐11:00–13:45；抵達晚就切換備案。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d15-03": {
+      "date": "2026-10-15",
+      "time": "12:30",
+      "duration": 75,
+      "note": ""
+    },
+    "d15-04": {
+      "date": "2026-10-15",
+      "time": "13:45",
+      "duration": 180,
+      "note": "車程含緩衝估算，依路況提前離開。"
+    },
+    "d15-05": {
+      "date": "2026-10-15",
+      "time": "16:45",
+      "duration": 45,
+      "note": "依租約確認滿油與發票；加油站用地圖當日查詢，不預填假電話。"
+    },
+    "d15-06": {
+      "date": "2026-10-15",
+      "time": "17:30",
+      "duration": 30,
+      "note": "原店還車；19:00為原表期限待訂單確認，門市19:00關門。"
+    },
+    "d15-07": {
+      "date": "2026-10-15",
+      "time": "18:30",
+      "duration": 25,
+      "note": "10/15入住，10/15、16連住雙床房（Trip.com）；10/17早上退房換房。"
+    },
+    "d15-08": {
+      "date": "2026-10-15",
+      "time": "19:15",
+      "duration": 75,
+      "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d16-01": {
+      "date": "2026-10-16",
+      "time": "08:15",
+      "duration": 60,
+      "note": "依出發當日班次搭乘，未固定特定列車。"
+    },
+    "d16-02": {
+      "date": "2026-10-16",
+      "time": "09:30",
+      "duration": 90,
+      "note": ""
+    },
+    "d16-03": {
+      "date": "2026-10-16",
+      "time": "11:00",
+      "duration": 60,
+      "note": ""
+    },
+    "d16-04": {
+      "date": "2026-10-16",
+      "time": "12:00",
+      "duration": 60,
+      "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d16-05": {
+      "date": "2026-10-16",
+      "time": "13:00",
+      "duration": 90,
+      "note": "避開牛肉串、牛握壽司與生魚片。"
+    },
+    "d16-06": {
+      "date": "2026-10-16",
+      "time": "14:30",
+      "duration": 75,
+      "note": ""
+    },
+    "d16-07": {
+      "date": "2026-10-16",
+      "time": "16:00",
+      "duration": 45,
+      "note": ""
+    },
+    "d16-08": {
+      "date": "2026-10-16",
+      "time": "16:45",
+      "duration": 30,
+      "note": ""
+    },
+    "d16-09": {
+      "date": "2026-10-16",
+      "time": "17:25",
+      "duration": 45,
+      "note": ""
+    },
+    "d16-10": {
+      "date": "2026-10-16",
+      "time": "18:20",
+      "duration": 40,
+      "note": ""
+    },
+    "d16-11": {
+      "date": "2026-10-16",
+      "time": "19:30",
+      "duration": 75,
+      "note": "BEAMS後若吃名駅店，留約30分鐘搭車與步行；選榮區しげ則可就近用餐。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d16-12": {
+      "date": "2026-10-16",
+      "time": "21:15",
+      "duration": 15,
+      "note": ""
+    },
+    "d17-room-checkout": {
+      "date": "2026-10-17",
+      "time": "08:30",
+      "duration": 20,
+      "note": "取出當天用品；櫃台確認雙人房訂單與晚上入住方式。標準退房10:00，今天提早辦理。"
+    },
+    "d17-01": {
+      "date": "2026-10-17",
+      "time": "09:00",
+      "duration": 150,
+      "note": ""
+    },
+    "d17-02": {
+      "date": "2026-10-17",
+      "time": "12:00",
+      "duration": 60,
+      "note": "矢場町豬排或榮的中日大樓鰻魚飯，留交通與候位緩衝。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d17-03": {
+      "date": "2026-10-17",
+      "time": "13:15",
+      "duration": 75,
+      "note": "利用換房空檔逛2F Snow Peak、3F SMYTHSON與4F／5F屋上廣場；若購物延後，祭典停留可彈性縮短。原本13:15的客房休息改到晚間入住後。"
+    },
+    "d17-04": {
+      "date": "2026-10-17",
+      "time": "14:30",
+      "duration": 150,
+      "note": ""
+    },
+    "d17-05": {
+      "date": "2026-10-17",
+      "time": "17:15",
+      "duration": 45,
+      "note": "位於RAYARD ZONE3，從祭典南側廣場留步行時間。"
+    },
+    "d17-room-checkin": {
+      "date": "2026-10-17",
+      "time": "18:10",
+      "duration": 25,
+      "note": "領新房卡，確認退房日10/18；若想提早休息，可向櫃台詢問能否提前入住。"
+    },
+    "d17-06": {
+      "date": "2026-10-17",
+      "time": "18:50",
+      "duration": 75,
+      "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d17-07": {
+      "date": "2026-10-17",
+      "time": "20:15",
+      "duration": 30,
+      "note": ""
+    },
+    "d18-01": {
+      "date": "2026-10-18",
+      "time": "09:30",
+      "duration": 30,
+      "note": ""
+    },
+    "d18-02": {
+      "date": "2026-10-18",
+      "time": "10:00",
+      "duration": 60,
+      "note": "10:00開門後逛PARCO；取行李前仍可依時間補逛榮區其他店。"
+    },
+    "d18-extra-shopping": {
+      "date": "2026-10-18",
+      "time": "11:10",
+      "duration": 40,
+      "note": "依漏買清單選店；若想繼續逛PARCO，可跳過這一站。"
+    },
+    "d18-03": {
+      "date": "2026-10-18",
+      "time": "12:00",
+      "duration": 60,
+      "note": "依所在區域選豬排或鰻魚飯，留取行李與去機場的時間。點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d18-04": {
+      "date": "2026-10-18",
+      "time": "15:00",
+      "duration": 20,
+      "note": ""
+    },
+    "d18-05": {
+      "date": "2026-10-18",
+      "time": "15:30",
+      "duration": 90,
+      "note": "目標17:00抵達T1，依實際列車時間提早出發。"
+    },
+    "d18-06": {
+      "date": "2026-10-18",
+      "time": "17:00",
+      "duration": 35,
+      "note": "規劃到場時間；航空公司報到截止需另核對。"
+    },
+    "d18-07": {
+      "date": "2026-10-18",
+      "time": "17:40",
+      "duration": 40,
+      "note": "點餐確認香菇、牛羊、內臟與生魚片；菇類配料及套餐內容先問店員。"
+    },
+    "d18-08": {
+      "date": "2026-10-18",
+      "time": "18:20",
+      "duration": 45,
+      "note": ""
+    },
+    "d18-09": {
+      "date": "2026-10-18",
+      "time": "19:50",
+      "duration": 190,
+      "note": "日本19:50 T1起飛 → 台灣22:00 T1抵達；登機口依登機證。"
+    },
+    "d18-10": {
+      "date": "2026-10-18",
+      "time": "23:00",
+      "duration": 40,
+      "note": "此處23:00為日本時間，即台灣22:00。接送資料待補。"
+    }
+  }
+}
